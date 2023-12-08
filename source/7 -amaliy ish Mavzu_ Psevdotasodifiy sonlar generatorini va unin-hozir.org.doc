@@ -1,0 +1,530 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<meta http-equiv="Content-Type" content="charset=utf-8" />7 -amaliy ish Mavzu: Psevdotasodifiy sonlar generatorini va uning dasturiy ta’minotini yaratish Ishdan maqsad<br />  <style type="text/css"> </style> <hr /><div id="page1-div" >  
+<br /><b>7</b>
+<br />
+<br /><b>-amaliy ish </b>
+<br />
+<br /><b>Mavzu: Psevdotasodifiy sonlar generatorini va uning dasturiy ta’minotini </b>
+<br />
+<br /><b>yaratish </b>
+<br />
+<br /><b>Ishdan  maqsad:</b>
+<p>  Psevdotasodifiy  sonlar  generatorlar  haqida  bilim </p>
+
+<p>ko’nikmalarga ega bo’lish.  
+<br />
+<br /><b>Nazariy qism </b>
+</p>
+<p>Uzluksiz shifrlash algoritmlari asosini PTKK ishlab chiqaruvchi generatorlar </p>
+
+<p>tashkil  etadi.  Bunday  generatorlarning  asosiy  kriptobardoshlilik  xarakteristikasi 
+</p>
+<p>ushbu generatorlar hosil qilgan ketma-ketlikning tasodifiyligidadir. Hosil qilingan </p>
+
+<p>ketma-ketliklar  bloklarining  tasodifiylik  darajasi  ma’lum  bir  kriteriylar  orqali 
+</p>
+<p>baholanadi.  Tasodifiylik  darajasi  yuqori  bo‘lgan  psevdotasodifiy  ketma-ketlikni </p>
+
+<p>ishlab  chiqaruvchi  generatorlar  zamonaviy  kriptotizimlarning  ajralmas  qismi 
+</p>
+<p>hisoblanadi.  Tasodifiy  ketma-ketliklar  kriptografiyada  quydagi  maqsadlarda </p>
+
+<p>qo‘laniladi: 
+</p>
+<p>-simmetrik kriptotizimlar uchun tasodifiylik darajasi yuqori bo‘lgan </p>
+
+<p>seans kalitlari va boshqa kalitlarni generatsiya qilishda; 
+</p>
+<p>-asimmetrik kriptotizimlarda qo‘llaniladigan katta qiymatlar qabul </p>
+
+<p>qiluvchi parametrlarning tasodifiy boshlang‘ich qiymatlari generatsiyasida; 
+</p>
+<p>-blokli  shifrlash  algoritmlarining  boshlang‘ich  tasodifiy  qiymat  talab </p>
+
+<p>qiluvchi  SVS,  OFB  va  boshqa  qo‘llanish  tartib-qoidalari  uchun  tasodifiylik 
+</p>
+<p>darajasi yuqori bo‘lgan boshlang‘ich vektorlar hosil qilishda; </p>
+
+<p>-elektron raqamli imzo tizimlarida katta qiymatga ega parametrlar 
+</p>
+<p>uchun dastlabki tasodifiy qiymatlarni generatsiyasida; </p>
+
+<p>-bitta  protokol  orqali  bir  xil  ma’lumotlarni  har-xil  kalitlar  qo‘llash  bilan 
+</p>
+<p>shifrlab  har-xil  ko‘rinishda  uzatish  uchun  talab  qilinadigan  holatlarda  kalit  uchun </p>
+
+<p>yetarli  uzunlikdagi  tasodifiy  ketma-ketlik  hosil  qilishda,  masalan  SSL  va  SET 
+</p>
+<p>protokollarida. </p>
+
+<p>Tasodifiy 
+</p>
+<p>ketma-ketliklar </p>
+
+<p>xaqiqiy 
+</p>
+<p>tasodifiy </p>
+
+<p>ketma-ketliklarga 
+</p>
+<p>va 
+<br /></p>
+
+<br />psevdotasodifiy ketma-ketliklarga bo‘linadi. 
+<br /></div>  <style type="text/css"> </style> <hr /><div id="page2-div" >  
+<br />Tasodifiy  ketma-ketlikni:  fizik  generatorlar  va  dasturiy  generatorlardan 
+<p>foydalanib hosil qilish mumkin. </p>
+
+<p>Fizik  hodisalarning  o‘zgarish  majmuiga  asoslangan  generatorlar  orqali 
+</p>
+<p>ishlab  chiqilgan  ketma-ketlik </p>
+
+<br />
+<br /><i>haqiqiy  tasodifiy</i>
+<p>  bo‘lib,  bu  ketma-ketlikni  bir </p>
+
+<p>martagina  ishlab  chiqilib,  uni  keyinchalik  biror  bir  usul  yoki  vosita  bilan  xuddi 
+</p>
+<p>shunday  tarzda  takrorlanishini  boshqarish  murakkab  hisoblanadi.  Shu  sababli </p>
+
+<p>ma’lumotlarni  shifrlash  jarayonida  bevosita  fizik  generatorlar  bilan  ishlab 
+</p>
+<p>chiqilgan  ketma-ketlikni  kalitlar  gammasi  sifatida  qo‘llash  maqsadga  muvofiq </p>
+
+<p>emas.  Chunki,  deshifrlash  jarayonida  qo‘llaniladigan  fizik  generatorning  aynan 
+</p>
+<p>shifrlash jarayonida qo‘llanilgan ketma-ketlikni ishlab chiqishi kafolatlanmaydi. </p>
+
+<p>Biror  noma’lum  parametrga  (kalitga)  bog‘liq  bo‘lgan  matematik  model 
+</p>
+<p>asosida  psevdotasodifiy  ketma-ketlik  ishlab  chiquvchi  dasturiy  generatorlar  hosil </p>
+
+<p>qilgan 
+<br />
+<br /><i>psevdotasodifiy</i>
+</p>
+<p>  ketma-ketlikni,  nomalum  parametr  qiymatini  bilgan  holda, </p>
+
+<p>xuddi shu matematik model va uning dasturiy ta’minoti asosida ketma-ketlikning 
+</p>
+<p>qayta  takrorlanishini  boshqarish  mumkin.  Bunday  holat,  ma’lumotlarni  shifrlash </p>
+
+<p>jarayonida  bevosita  dasturiy  generatorlar  bilan  ishlab  chiqilgan  psevdotasodifiy 
+</p>
+<p>ketma-ketlikni kalitlar gammasi sifatida qo‘llash maqsadga muvofiqligini anglatadi </p>
+
+<p>va  deshifrlash  jarayonida  qo‘llaniladigan  dasturiy  generatorning  aynan  shifrlash 
+</p>
+<p>jarayonida  qo‘llanilgan  psevdotasodifiy  ketma-ketlikni  ishlab  chiqishi </p>
+
+<p>kafolatlanadi. 
+</p>
+<p>Yetarli  katta  davr  uzunligiga  ega  va  tasodifiylik  darajasi  yuqori  bo‘lgan </p>
+
+<p>ketma-ketliklar  hosil  qiluvchi  dasturiy  PTKK  generatorini  amalda  qo‘lanishlari 
+</p>
+<p>samarali va qulay bo‘lib, kriptografik vositalarda keng qo‘llaniladi. </p>
+
+<p>Uzluksiz  shifrlash  tizimlarida  shifrlash  va  deshifrlash  jarayonlarini  tez 
+</p>
+<p>amalga oshirilishi uchun tashkil etuvchilari tekis taqsimlangan, tasodifiylik darajasi </p>
+
+<p>yuqori  bo‘lgan  psevdo-tasodifiy  ketma-ketlik  ishlab  chiqaruvchi  dasturiy 
+</p>
+<p>generatorlardan foydalaniladi. </p>
+
+<p>Algoritmlarni  kriptobardoshliligini  yetarli  darajada  taminlanganligini 
+</p>
+<p>kafolatlash  yoki  isbotlash  asoslari  nuqtai  -  nazaridan  mavjud  uzluksiz  shifrlash </p>
+
+<p>algoritmlarini asosan uchta yo‘nalishga ajratish mumkin: 
+<br /></div>  <style type="text/css"> </style> <hr /><div id="page3-div" >  
+<br />1.
+</p>
+<p> 
+<p>Tizimli-nazariy  yondashuv  yo‘nalishidagi  PTKK  generatorlari  asosida </p>
+
+<br />
+<br />yaratilgan algoritmlar; 
+</p>
+<p>2.
+<p> </p>
+
+<br />
+<br />Murakkablikka  asoslangan  nazariy  yondashuv  yo‘nalishidagi  PTKK 
+</p>
+<p>generatorlari asosida yaratilgan algoritmlar; </p>
+
+<p>3.
+<p> 
+<br />
+<br />Kombinatsiyalash  yo‘nalishidagi  PTKK  generatorlari  asosida  yaratilgan </p>
+
+<br />
+<br />algoritmlar. 
+</p>
+<p>Tizimli-nazariy yondashuv asosida yaratilgan uzluksiz shifrlash algoritmlari </p>
+
+<p>tarkibidagi  generatorlarni  yaratilish  asoslariga  ko‘ra: 
+<br />
+<br /></p></div><div><i>elementar  rekkurent </i>
+<br />
+<br /><i>hisoblashlarga,  siljitish  registrlariga,  bir  tomonli  funksiyalarga,  baytlar  va  bitlar </i>
+<br />
+<br /><i>bloklarining o‘rnini bog‘liqsiz almashtirishga asoslangan generatorlarga </i>
+
+<p>ajratish </p>
+
+<p>mumkin. 
+</p>
+<p>Elementar rekkurent hisoblashlarga asoslangan psevdotasodifiy ketma-ketlik </p>
+
+<p>generatorlari  ularda  qo‘llanilgan  akslantirishlarga  ko‘ra 
+<br />
+<br /><i>chiziqli,</i>
+</p>
+<p> 
+<br />
+<br /><i>multiplikativ, </i></p>
+
+<br />
+<br /><i>chiziqsiz </i>
+<p>turkumlarga bo‘linadi. </p>
+
+<p>Chiziqli va multiplikativ kongruent generatorlar 
+</p>
+<p>Chiziqli  kongruent  generatorlar  umumiy  holatda </p>
+
+<br />
+<br /><i>x</i>
+<br />
+<br /><i>i+</i>
+<p>1
+<p>=(</p>
+
+<br />
+<br /><i>ax</i>
+<br />
+<br /><i>i</i>
+</p>
+<p>  +
+<br /></p>
+
+<br /><i>s</i>
+<p>  )mod 
+<br /></p>
+
+<br /><i>N</i>
+<p> 
+<p>formula  bilan  aniqlanuvchi  rekkurent  hisoblashga  asoslangan.  Dastlabki  berilgan </p>
+
+<br />
+<br />kirish parametrlari asosida ketma-ketliklar hosil qilinadi. 
+</p>
+<p>Kirish parametrlari: </p>
+
+<br />
+<br /><i>N </i>
+<p>–
+<br />
+<br /><i> </i></p>
+
+<p>chekli  maydon  xarakteristikasini  ifodalovchi  son,
+<br />
+<br /><i>  a </i>
+</p>
+<p>va
+<br />
+<br /><i>  s </i></p>
+
+<p>-
+<br />
+<br /><i> </i>
+</p>
+<p>o‘zgarmas </p>
+
+<p>musbat butun sonlar, 
+<br />
+<br /><i>x</i>
+</p>
+<p>0
+<p> – boshlang‘ich butun qiymatli son; </p>
+
+<br />
+<br />Ketma-ketlikni tashkil etuvchi chiqish qiymatlari: 
+<br />
+<br /><i>x</i>
+<br />
+<br /><i>i</i>
+</p>
+<p>+1
+<p>=(</p>
+
+<br />
+<br /><i>ax</i>
+<br />
+<br /><i>i</i>
+<br />
+<br /><i> </i>
+</p>
+<p>+
+<br />
+<br /><i>s </i></p>
+
+<p>)mod
+<br />
+<br /><i> N</i>
+</p>
+<p>,
+<br />
+<br /><i>  i </i></p>
+
+<p>= 0,1,2,3, …; 
+</p>
+<p>Chiziqli  kongruent  generatorning  kirish  parametri </p>
+
+<br />
+<br /><i>s</i>
+<p>=0  bo‘lsa,  ya’ni </p>
+
+<br />
+<br /><i>x</i>
+<br />
+<br /><i>i</i>
+<p>+1
+<p>=(</p>
+
+<br />
+<br /><i>ax</i>
+<br />
+<br /><i>i</i>
+</p>
+<p>)mod
+<br /></p>
+
+<br /><i> N</i>
+<p>,
+<br />
+<br /><i> i </i></p>
+
+<p>= 0,1,2,3, …; 
+</p>
+<p>bo‘lsa, bu generator chiziqli multiplikativ generator deyiladi. </p>
+
+<p>Chiziqsiz kongruent generatorlar 
+</p>
+<p>Kirish parametrlari: </p>
+
+<br />
+<br /><i>N </i>
+<p>–
+<br />
+<br /><i> </i></p>
+
+<p>chekli maydon xarakteristikasini ifodalovchi son; 
+<br /></div>  <style type="text/css"> </style> <hr /><div id="page4-div" >  
+<br /><i>d</i>
+</p>
+<p>,
+<br />
+<br /><i> a </i></p>
+
+<p>va
+<br />
+<br /><i> s </i>
+</p>
+<p>-
+<br />
+<br /><i> </i></p>
+
+<p>o‘zgarmas musbat butun sonlar,
+<br />
+<br /><i> x</i>
+</p>
+<p>0
+<br />
+<br /><i> </i></p>
+
+<p>–
+<br />
+<br /><i> </i>
+</p>
+<p>boshlang‘ich qiymat;</p>
+
+<br />
+<br /><i> k</i>
+<p>etma-
+<br /></p>
+
+<br />ketlikni  tashkil  etuvchi  chiqish  qiymatlari: 
+<br />
+<br /><i>x</i>
+<br />
+<br /><i>i</i>
+<p>+1
+<p>=(</p>
+
+<br />
+<br /><i>dx</i>
+<br />
+<br /><i>i</i>
+</p>
+<p>2
+<p>+</p>
+
+<br />
+<br /><i>ax</i>
+<br />
+<br /><i>i</i>
+</p>
+<p>+
+<br />
+<br /><i>c</i></p>
+
+<p>)mod
+<br />
+<br /><i>N</i>
+</p>
+<p>,
+<br />
+<br /><i> </i></p>
+
+<p>buyerda
+<br />
+<br /><i> </i>
+<br />
+<br /><i>i</i>
+</p>
+<p>=0,1,2,… . </p>
+
+<p>Bu generator kvadratik generator deb ham ataladi. 
+</p>
+<p>Siljitish registrlariga asoslangan generatorlar </p>
+
+<p>Xozirgi  paytgacha  taklif  etilgan  va  muvaffaqiyatli  ravishda  ishlatilib 
+</p>
+<p>kelinayotgan  uzluksiz  shifrlash  algoritmlarining  asosini  siljitish  registrlari  yoki </p>
+
+<p>aniq  qilib  aytganda  chiziqli  teskari  bog‘lanishli  siljitish  registrlari  tashkil  qiladi. 
+</p>
+<p>Bunday  teskari  bog‘lanishli  siljitish  registrlari  Fibbonachi  registrlari  yoki  Galua </p>
+
+<p>registrlari ham deb ataladi. Bu xildagi uzluksiz shifrlash algoritmlarining ommaviy 
+</p>
+<p>qo‘llanilishiga ikki hil sababni ko‘rsatish mumkin: </p>
+
+<p>1.
+<p> 
+<br />
+<br />Teskari  bog‘lanishli  siljitish  registrlariga  asoslangan  generatorlar  hosil </p>
+
+<br />
+<br />qilgan ketma-ketliklar yaxshi tasodifiylik statistik xarakteristikalarini beradi; 
+</p>
+<p>2.
+<p> </p>
+
+<br />
+<br />Siljitish registrlariga asoslangan 
+</p>
+<p>generatorlarning </p>
+
+<p>xususiyatlarini tahlil 
+</p>
+<p>qilish oson. </p>
+
+<p>Amaliy qism: 
+</p>
+<p>Chiziqli  va  chiziqsiz  kongurent  kalit  xosil  qilishning  dasturiy  ta’minotini </p>
+
+<p>ishlab chiqishda c# obe’ktga mo‘ljallangan dasturlash tilidan foydalanilgan bo’lib, 
+</p>
+<p>dasturni ishga tushurganimizda quydagi oyna paydo bo’ladi.  </p>
+
+<p> 
+<p>6.5.1-rasm. Dasturni umumiy ko’rinishi </p>
+
+<br />
+<br />Tizimli –nazariy yondashuv generatori bo’limida generatorlar haqida batafsil 
+</p>
+<p>ma’lumot berilgan: </p>
+
+<br /></div>  <style type="text/css"> </style> <hr /><div id="page5-div" >  
+<br /> 
+<p>6.5.2-rasm. Tizimli –nazariy yondashuv generatori tugmasi </p>
+
+<p>Chiziqli va chiziqsiz kongurent haqida ma’lumot bo’limida ular haqida 
+</p>
+<p>batafsil ma’lumot berilgan:  </p>
+
+<p> 
+<p>6.5.3-rasm. Chiziqli-chiziqsiz kogurentlar haqida ma’lumot  </p>
+
+<br />
+<br />Chiziqli-chiziqsiz kogurentlarda kalitni xosil qilish bo’limida quydagi 
+</p>
+<p>oynaga guvoh bo’lamiz:  </p>
+
+<p> 
+<p>6.5.4-rasm. Chiziqli-chiziqsiz kogurentlarda kalitni xosil qilish  </p>
+
+<br />
+<br />Yuqoridagi oynada: 
+</p>
+<p>-
+<p> </p>
+
+<br />
+<br />Dastlabki kalitga : ixtiyoriy ma’lumot kiritasiz; 
+</p>
+<p>-
+<p> </p>
+
+<br />
+<br />Generator nomiga : chiziqli yoki chiziqsizni tanlash mumkin bo’ladi 
+</p>
+<p>-
+<p> </p>
+
+<br />
+<br />Kalit uzunligi : kerakli uzunlikdagi kalitni tanlash imkoni mavjud; 
+<br /></div>  <style type="text/css"> </style> <hr /><div id="page6-div" >  
+<br /> 
+</p>
+<p>6.5.5-rasm. Kalitni xosil qilish  </p>
+
+<br />
+<br /><b>Ishni bajarilish tartibi va qo’yilgan vazifa </b>
+<p>Psevdotasodifiy generatsiya qilish usullaridan birini </p>
+
+<br />
+<br /><i>Delpi, Java, C++ </i>
+<p>va 
+<br /></p>
+
+<br /><i>C# </i>
+<p>dasturlash tizimlaridan birida dasturiy ta’minot yaratilsin</p>
+
+<br />
+<br /><b>. </b>
+<br />
+<br /><b>Nazorat savollari </b>
+<p>1.
+<p> </p>
+
+<br />
+<br />Tasodifiy sonlar generatoriga ta’rif bering. 
+</p>
+<p>2.
+<p> </p>
+
+<br />
+<br />Tizimli-nazariy  yondashuv  asosida  qurilgan  PTKK  generatorlariga 
+</p>
+<p>misollar keltiring. </p>
+
+<br />
+<br /> 
+<br /></div> <br />http://hozir.org</html>

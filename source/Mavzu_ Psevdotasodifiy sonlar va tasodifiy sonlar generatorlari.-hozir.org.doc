@@ -1,0 +1,267 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<meta http-equiv="Content-Type" content="charset=utf-8" />Mavzu: Psevdotasodifiy sonlar va tasodifiy sonlar generatorlari. Reja<br /> 
+<br /><b>Mavzu: Psevdotasodifiy sonlar va tasodifiy sonlar generatorlari.</b>
+<br /><b>Reja:</b>
+<br /><ol type="i"> <li/> 
+<br />Kirish.
+<br /></ol> <ol> <li/> 
+<br />Psevdor tasodifiy sonlar generatori.
+<br /><li/> 
+<br />Chiziqli takrorlanishlarga asoslangan generatorlar.
+<br /><li/> 
+<br />BSI baholash mezonlari.
+<br /><li/> 
+<br />Xulosa.
+<br /><li/> 
+<br />Foydalanilgan adabiyotlar.
+<br /></ol> 
+<br />
+<br /><ol type="i"> <li/> 
+<br /><b>Kirish.</b>
+<br /></ol> 
+<br />Tasodifiy sonlarni olishning ikkita asosiy usuli mavjud:
+<br />1) Tasodifiy raqamlar kompyuterga o'rnatilgan maxsus elektron qurilma (tasodifiy raqamlar generatori) tomonidan hosil qilinadi. Ushbu usulni amalga oshirish deyarli hech qanday qo'shimcha operatsiyalarni talab qilmaydi, faqat tasodifiy sonlar generatoriga kirish.
+<br />2) Algoritmik usul - maxsus dastur yordamida mashinaning o'zida tasodifiy sonlar hosil bo'lishiga asoslangan. Ushbu usulning nochorligi kompyuter vaqtining qo'shimcha sarflanishidir, chunki bu holda mashina elektron qurilmaning ishlarini o'zi bajaradi.
+<br />Berilgan taqsimot qonuni bilan tasodifiy sonlarni yaratish dasturi noqulay bo'lishi mumkin. Shuning uchun berilgan taqsimot qonuni bo'lgan tasodifiy sonlar odatda to'g'ridan-to'g'ri emas, balki qandaydir standart taqsimotga ega bo'lgan tasodifiy sonlarni o'zgartirish orqali olinadi. Ko'pincha bunday standart taqsimot bir xil taqsimotdir (boshqa qonunlarga aylanish qulayligi va o'zgarishi).
+<br />Elektron prefiks yordamida yagona qonun bilan tasodifiy raqamlarni kompyuterni qo'shimcha vaqt sarfidan xalos qiladigan eng foydali hisoblanadi. Cheklangan razryadlar tarmog'i tufayli kompyuterda mutlaqo bir xil taqsimotni olish mumkin emas. Shuning uchun (0, 1) oralig'idagi doimiy sonlar to'plami o'rniga, ning alohida yig'indisi <i>2 n</i> raqamlar, qaerda <i>n</i> - mashina so'zining bit kengligi.
+<br />Yarim bir xil tasodifiy sonlarni olish uchun ikkita usul qo'llaniladi:
+<br />1) ba'zi bir tasodifiy jarayonlarni simulyatsiya qilish orqali elektron moslama yordamida tasodifiy sonlarni yaratish;
+<br />2) maxsus algoritmlar yordamida psevdo-tasodifiy sonlarni olish.
+<p>Yaqinda yangilik o'rta kvadratni Veyl ketma-ketligi bilan birlashtirishdir. Bu usul uzoq vaqt davomida yuqori sifatli mahsulot ishlab chiqaradi (o'rta kvadrat usuliga qarang).</p>
+
+<br /><ol start="4"> <li/> 
+<br /><b>Xulosa. </b> 
+<br /></ol> 
+<br />Xulosa qilib eng yaxshi tasodifiy sonlar generatori ro`yxatini keltiramiz. Bular quyidagilar:
+<br /><ol> <li/> 
+<br />RANDOM.ORG. Agar siz RANDOM.ORG veb-saytiga tashrif buyursangiz, siz juda oddiy raqamlar generatorini topasiz.  
+<br /><li/> 
+<br />Tasodifiy natija.  
+<br /><li/> 
+<br />Tasodifiy raqamlar generatori (RNG).
+<br /><li/> 
+<br />Raqam generatori.
+<br /><li/> 
+<br />Tasodifiy tanlash.
+<br /><li/> 
+<br />Lotereya lotereyasi soni generatori.
+<br /><li/> 
+<br />Rasmiy tasodifiy raqamlar generatori.  
+<br /><li/> 
+<br />Tasodifiy raqamlar generatori.
+<br /></ol> 
+<br />Eng yaxshi tasodifiy ikki xonali son <span>37 bo`lib</span>, "1 dan 100 gacha bo'lgan tasodifiy raqam"ni tanlash uchun odamlar guruhlari so'ralganda, eng ko'p tanlangan raqam 37 ni tashkil qiladi. 1 va 10 orasida eng ko'p tanlangan raqam qaysi? Karnavallarda 1 dan 10 gacha bo'lgan istalgan raqamni tanlash imkoniyati berilganda, odamlar ko'pincha <span>3 yoki 7 ni tanlaydilar</span>. Odamlar tasodifiy sonlar yaratuvchisi bo'lib, ularning g'ayrioddiy ko'p qismi 37 ni tanlaydi.
+<br />
+<br /><b>Mavzu: AES konkursida ishtirok etgan shifrlash algoritmlari.</b>
+<br /><b>Reja:</b>
+<br /><ol type="i"> <li/> 
+<br />Kirish.
+<br /></ol> <ol> <li/> 
+<br />AES shifrlash algoritmi ustida amallar bajarish.
+<br /><li/> 
+<br />Kvadrat arxitekturaga ega AES blokli shifrlash algoritmi. 
+<br /><li/> 
+<br />Xulosa.
+<br /><li/> 
+<br />Foydalanilgan adabiyotlar.
+<br /></ol> 
+<br />
+<br /><ol type="i"> <li/> 
+<br /><b>Kirish.</b>
+<br /></ol> 
+<br />DES blokli shifrlash algoritmi 1999 yilgacha AQShda standart shifrlash algoritmlari sifatida ishlatib kelingan.
+<br />1974 yildan Amerika qo'shma shtatlarining standart shifrlash algoritmi sifatida qabul qilingan DES shifrlash algoritmi quyidagi : 
+<br />- kalit uzunligining kichigligi, ya'ni 56 bit bo'lib, uning 128 bitdan kichikligi; 
+<br />- S-blok akslantirishlarining differentsial kriptotahlil usuliga bardoshsizligi; 
+<br />Boshqa sabablarga ko'ra eskirgan deb sanaladi. Ayniqsa 1999 yilda DES shifrlash algoritmi yordamida shifrlangan ma’lumotning internet tarmog'iga ulangan 300 ta paralel kompyuter tomonidan 24 soat davomida ochilishi haqidagi ma’lumotning tasdiqlanishi bundan keyin mazkur standart algoritmi yordamida ma’lumotlarni kriptografik muhofaza qilish masalasini qaytadan ko'rib chiqish va yangi standart qabul qilish zaruratini keltirib chiqardi. 
+<br />Amerika qo'shma shtatlarining “Standartlar va texnologiyalar Milliy Instituti (NIST)” tomonidan 1997 yilda XXI asrning ma'lumotlarni kriptografik muhofazalovchi yangi shifrlash algoritmi standartini qabul qilish maqsadida tanlov e'lon qilindi. 2000 yilda standart shifrlash algoritmi qilib RIJNDAEL shifrlash algoritmi asos qilib olingan AES (Advanced Encryption Standard) (FIPS 197) qabul qilindi. Algoritmning yaratuvchilari Belgiyalik mutaxassislar Yon Demen (Joan Daemen) va Vinsent Ryumen (Vincent Rijmen)larning familiyalaridan RIJNDAEL nomi olingan. 
+<br />AES FIPS 197 blokli shifrlash algoritmida 8 va 32-bitli (1-baytli va 4-baytli) vektorlar ustida amallar bajariladi. AES FIPS 197 shifrlash algoritmi XXI asrning eng barqaror shifrlash algoritmi deb hisoblanadi. Bu algoritm boshqa mavjud standart simmetrik shifrlash algoritmlaridan farqli o'laroq, Feystel tarmog'iga asoslanmagan blokli shifrlash algoritmlari qatoriga kiradi.
+<br />
+<br /><center> <table width="638" cellpadding="7" cellspacing="0"> <col width="22"> <col width="24"> <col width="24"> <col width="23"> <col width="24"> <col width="23"> <col width="24"> <col width="24"> <col width="23"> <col width="24"> <col width="24"> <col width="23"> <col width="24"> <col width="24"> <col width="23"> <col width="24"> <col width="23"> <tr> <td width="22"> 
+<br /><b>e</b>
+<br /></td> <td width="24"> 
+<br />e1
+<br /></td> <td width="24"> 
+<br />f8
+<br /></td> <td width="23"> 
+<br />98
+<br /></td> <td width="24"> 
+<br />11
+<br /></td> <td width="23"> 
+<br />69
+<br /></td> <td width="24"> 
+<br />D9
+<br /></td> <td width="24"> 
+<br />8e
+<br /></td> <td width="23"> 
+<br />94
+<br /></td> <td width="24"> 
+<br />9b
+<br /></td> <td width="24"> 
+<br />1e
+<br /></td> <td width="23"> 
+<br />87
+<br /></td> <td width="24"> 
+<br />e9
+<br /></td> <td width="24"> 
+<br />ce
+<br /></td> <td width="23"> 
+<br />55
+<br /></td> <td width="24"> 
+<br />28
+<br /></td> <td width="23"> 
+<br />df
+<br /></td> </tr> <tr> <td width="22"> 
+<br /><b>f</b>
+<br /></td> <td width="24"> 
+<br />8c
+<br /></td> <td width="24"> 
+<br />a1
+<br /></td> <td width="23"> 
+<br />89
+<br /></td> <td width="24"> 
+<br />0d
+<br /></td> <td width="23"> 
+<br />Bf
+<br /></td> <td width="24"> 
+<br />E6
+<br /></td> <td width="24"> 
+<br />42
+<br /></td> <td width="23"> 
+<br />68
+<br /></td> <td width="24"> 
+<br />41
+<br /></td> <td width="24"> 
+<br />99
+<br /></td> <td width="23"> 
+<br />2d
+<br /></td> <td width="24"> 
+<br />0f
+<br /></td> <td width="24"> 
+<br />b0
+<br /></td> <td width="23"> 
+<br />54
+<br /></td> <td width="24"> 
+<br />bb
+<br /></td> <td width="23"> 
+<br />16
+<br /></td> </tr> </table> </center> 
+<br /><i>SubBytes (S -blok akslantirishlari jadvali)</i> baytlarni almashtirish jarayonining umumiy sxemasini quyidagicha tasvirlash mumkin.
+<br />  
+<br />SubBytes
+<br />
+<br />  
+<br /><table dir="ltr" align="left" width="222" hspace="12" cellpadding="7" cellspacing="0"> <col width="40"> <col width="41"> <col width="41"> <col width="40"> <tr valign="top"> <td width="40" height="21"> 
+<br />S<sup>’</sup><sub>00</sub><sup> </sup> 
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>01</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>02</sub>
+<br /></td> <td width="40"> 
+<br />S<sup>’</sup><sub>03</sub>
+<br /></td> </tr> <tr valign="top"> <td width="40" height="22"> 
+<br />S<sup>’</sup><sub>10</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>11</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>ij</sub>
+<br /></td> <td width="40"> 
+<br />S<sup>’</sup><sub>13</sub>
+<br /></td> </tr> <tr valign="top"> <td width="40" height="22"> 
+<br />S<sup>’</sup><sub>20</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>21</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>22</sub>
+<br /></td> <td width="40"> 
+<br />S<sup>’</sup><sub>23</sub>
+<br /></td> </tr> <tr valign="top"> <td width="40" height="21"> 
+<br />S<sup>’</sup><sub>30</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>31</sub>
+<br /></td> <td width="41"> 
+<br />S<sup>’</sup><sub>32</sub>
+<br /></td> <td width="40"> 
+<br />S<sup>’</sup><sub>33</sub>
+<br /></td> </tr> </table> <table dir="ltr" align="left" width="200" hspace="12" cellpadding="7" cellspacing="0"> <col width="35"> <col width="36"> <col width="36"> <col width="35"> <tr valign="top"> <td width="35" height="20"> 
+<br />S<sub>00</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>01</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>02</sub>
+<br /></td> <td width="35"> 
+<br />S<sub>03</sub>
+<br /></td> </tr> <tr valign="top"> <td width="35" height="21"> 
+<br />S<sub>10</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>11</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>ij</sub>
+<br /></td> <td width="35"> 
+<br />S<sub>13</sub>
+<br /></td> </tr> <tr valign="top"> <td width="35" height="21"> 
+<br />S<sub>20</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>21</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>22</sub>
+<br /></td> <td width="35"> 
+<br />S<sub>23</sub>
+<br /></td> </tr> <tr valign="top"> <td width="35" height="22"> 
+<br />S<sub>30</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>31</sub>
+<br /></td> <td width="36"> 
+<br />S<sub>32</sub>
+<br /></td> <td width="35"> 
+<br />S<sub>33</sub>
+<br /></td> </tr> </table>
+<br /><i>ShiftRows </i> 
+<br />
+<br />
+<br /><b>3. Xulosa.</b>
+<br />AES shifrlash algoritmi juda katta himoyaga egadir. Ishlatiladigan kalit uzunligi eng ilg'or va himoyalangan, deb aytish mumkin.  
+<br />AES shifrlash algoritmini ayni paytda 3 ta versiyasi mavzud:
+<br /><ul> <li/> 
+<br />AES128
+<br /><li/> 
+<br />AES192  
+<br /><li/> 
+<br />AES256 
+<br /></ul> 
+<br />Birinchisi va ikkinchisi mobil qurilmalar axborot xavfsizligini, taminlashda va ta'minlash uchun ko'proq qo'llaniladi. standart sifatida tizimi rasman 2002 yilda joriy etildi, va darhol uning qo'llab-quvvatlash protsessor chips ishlab chiqaradi. Intel korporatsiyasi tomonidan xabardor qilingan. Boshqa har qanday simmetrik shifrlash tizimi farqli o'laroq, uning mohiyati, ikki o'lchovli, tillo bilan bir polinom kodi vakillik va hisoblash operatsiyalari asosida hisoblash uchun kamaytiradi. 
+<br />
+<br />
+<br /><b>Mavzu: Elektron shartnomalar tuzishda foydalaniladigan kriptografik protokollar.</b>
+<br /><b>Reja:</b>
+<br /><ol type="i"> <li/> 
+<br />Kirish.
+<br /></ol> <ol start="6"> <li/> 
+<br />Elektron shartnoma imzolash protokollari.
+<br /><li/> 
+<br />Jamoaviy elektron raqamli imzo protokollari.
+<br /><li/> 
+<br />Jamoaviy elektron raqamli imzoning umumlashgan sxemasi.
+<br /><li/> 
+<br />Xulosa.
+<br /><li/> 
+<br />Foydalanilgan adabiyotlar.
+<br /></ol> 
+<br />
+<br /><ol type="i"> <li/> 
+<br /><b>Kirish. </b> 
+<br /></ol> 
+<br />Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi protokol hisoblanib, "harakatlar ketma-ketligi" so'zi protokol boshidan to oxiriga qadar ketma-ket bajarilishini bildiradi. Har bir harakat navbatma-navbat bajariladi, shuningdek keyingi harakatlar oldingi harakatlar tugagandan keyingina bajarilishni boshlaydi. "Ikki yoki undan ortiq tomonlar bajaradigan" so'zi protokol bajarilishi uchun kamida ikki tomonning ishtiroki kerakligini bildiradi. Protokolni yakka tartibda bajarib bo'lmaydi. 
+<br />ERI protokoli. Bu sinfdagi protokol asosini yubonshda yuboruvchining yopiq kaliti yordamida ERIni hisoblash, qabul qilsa ochiq ma'lumotnomadan olinadigan va o'zgartirishda himoyalangan yopiq kalitga mos ochiq kalit yordamida ERIni tekshirish algoritmiari tashkil etadi. Protokolni tekshirish natijasi ijobiy bo’ganda, qabul qilingan xabar, uning ERIsi va mos ochiq kalitlami arxivlash tugallanadi.
+<br />ERIni shakllantirish jadal hisoblashlarni talab qilganidek, maxsus qurilma yoki samarali dastur algoritmini qo'llash yordamida bu hisoblashlarni tezlashtirish maqsadga muvofiqdir. Hujjatlar paketiga jamoaviy imzo qo'yish bir qancha qabul qiluvchilar uchun moMjallangan xabarlarga imzolovchining bir vaqtda imzo qo'yishiga imkon beradi. Shunday qilib, bu imzo qo'yish vaqtini ko'p marta kamaytiradi. Endi hujjatlar paketiga jamoaviy imzo qo'yish sxemasining muhim xossalarini umumlashtiramiz: 
+<br />1. Hujjatlar paketiga jamoaviy imzo qo'yish sxemasi bir vaqtda ko'p xatlami imzolashga imkon yaratadi. 
+<br />2. Hujjatlar paketiga qo'yilgan jamoaviy imzo haqiqiylikka bar bir qabul qiluvchi ishtirokchi tomonidan alohida tekshirilishi mumkin. 
+<br />3. Jamoaga taalluqli bo'lmagan xabarlar aloqador bo'lmagan tekshiruvchi ishtirokchilarga ochilishi mumkin emas. 
+<br />murakkabligiga asoslanadi. Bunda bar bir ishtirokchi umumiy imzoda o'z ulushini shakllantirib, bu ulushlar o'ramasini JERI sifatida qabul etiladi. Shunday qilib, JERlni shakllantirish jarayonida barcha imzolovchilar bir paytda qatnashadilar.
+<br /><b>4. Xulosa.</b> JERI multiimzo (multisignature) deb ham ataladi. Ko'pchilik faktorlash ya chekli katta tub tartibli gruppalarda diskret logarifmlash masalalarining murakkabligiga asoslangan ma'lum protokollaming kamchiligi shundaki, imzo ketma-ket shakllantiriladi. Bu o'z navbatida imzoni shakllantirish va tekshirishdagi oraliq bosqichlarda to'la bo'lmagan imzolovchilar qismiga taalluqli imzo shakllanadi. Bu esa protokollarga turli maxsuslashgan hujumlami amalga oshirish imkoniyatini yuzaga keltiradi. Sunday kamchilikdan holi bo'lgan imzoni parallel shakllantirishga asoslangan JERI protokoli shartnomalar paketini bir vaqtda imzolashga, imzolovchilar tarkibini bar xil qilib belgilashga imkon beradi.
+<br />Faktorlash masalasining murakkabligiga asoslangan JERlni bir vaqtda imzolash protokoli JERI shakllantirishda foydalaniladigan primitivlar sinfming kengayishiga olib kelib, JERlni buzish uchun ikkita bir-biriga bog'liq bo'lmagan masalalar juftligini yechishga to'g'ri keladi. Bunda n sonini va uncha katta bo'lmagan tub son к ga teng daraja ko'rsatkichi sonini Ro'yxatga Olish Markazi generasiyalaydi deb qaraladi.
+<br />JERI sxemalarining va protokollarining bardoshligi bir vaqtda о zaro mustaqil bo'lgan ikkita masalaning, ya'ni diskret logarifmlashni chekli maydonda va elliptik egri chiziqiarda hal etish murakkabligiga 148 asoslansa, yakuniy bardoshlilik ortishiga erishilishi kriptograflar tomonidan asoslanganligi JERI protokollari uchun alohida ahamiyat kasb etadi.
+<br />
+<br /><br />http://hozir.org</html>

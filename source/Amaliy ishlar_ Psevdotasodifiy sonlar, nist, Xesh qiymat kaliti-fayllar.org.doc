@@ -1,0 +1,1068 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<meta http-equiv="Content-Type" content="charset=utf-8" />Amaliy ishlar: Psevdotasodifiy sonlar, nist, Xesh qiymat kaliti<br /> 
+<br /><sup><b>12-13-14-15- amaliy ishlar: Psevdotasodifiy sonlar, NIST, Xesh qiymat, Xesh qiymat kaliti</b></sup>
+<br />
+<br /><b>12- amaliy ish</b>
+<br /><b>Mavzu: Psevdotasodifiy sonlar generatorini va uning dasturiy ta’minotini yaratish</b>
+<br /><b>Ishdan maqsad</b>: Psevdotasodifiy sonlar generatorlar haqida bilim ko‘nikmalarga ega bo‘lish.  
+<br /><b>Nazariy qism</b>
+<br />DES shifrlash algoritmi yordamida psevdotasodifiy ketma-ketliklarni generasiya qiling. Quyidagi kongruent generatorlarni amalga oshirish
+<br /> 
+<br /> 
+<br /> 
+<br />Bu yerda
+<br /> ketma-ketlikning hadi,
+<br /> ketma-ketlikning navbatdagi hadi,
+<br /> - kongruent generator parmetrlari, m -modul.
+<br /><b>Topshiriq</b>
+<br />Quyida keltirilgan variantlar bo‘yicha kongruent generatorlar asosida ketma-ketliklarni hosil qiling va davrini hisoblang.  
+<br /><table width="489" cellpadding="7" cellspacing="0"> <col width="40"> <col width="419"> <tr> <td width="40" height="14"> 
+<br />№
+<br /></td> <td width="419"> 
+<br /><b>Generator parametrlari</b>
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=7, c=9, d=5, m=13
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="2"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=3, b=5, c=9, d=7, m=11
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="3"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=7, b=7, c=4, d=3, m=31
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="4"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=7, c=9, d=5, m=17
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="5"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=7, b=5, c=9, d=8, m=13
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="6"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=7, c=9, d=5, m=13
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="7"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=11, b=6, c=9, d=5, m=17
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="8"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=8, b=7, c=11, d=4, m=19
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="9"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=6, b=3, c=9, d=8, m=19
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="10"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=7, c=9, d=5, m=13
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="11"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=8, b=7, c=9, d=5, m=11
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="12"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=7, c=9, d=5, m=23
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="13"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=4, b=5, c=9, d=5, m=13
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="14"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=6, b=7, c=9, d=11, m=17
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="15"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=6, b=8, c=4, d=3, m=19
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="16"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=11, b=7, c=8, d=5, m=23
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="17"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=11, b=7, c=9, d=8, m=29
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="18"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=7, b=7, c=7, d=5, m=29
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="19"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=9, b=7, c=9, d=5, m=23
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="20"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=5, b=7, c=11, d=5, m=31
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="21"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=8, b=7, c=9, d=11, m=17
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="22"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=12, b=7, c=8, d=10, m=19
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="23"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=12, b=7, c=3, d=10, m=19
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="24"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=7, b=11, c=5, d=9, m=23
+<br /></td> </tr> <tr> <td width="40" height="16"> <ol start="25"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=12, b=5, c=9, d=7, m=17
+<br /></td> </tr> <tr> <td width="40" height="15"> <ol start="26"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=7, b=4, c=8, d=11, m=31
+<br /></td> </tr> <tr> <td width="40" height="14"> <ol start="27"> <li/> 
+<br /></ol> </td> <td width="419"> 
+<br />a=10, b=6, c=12, d=11, m=29
+<br /></td> </tr> </table> 
+<br />
+<br /><b>Nazorat savollari</b>
+<br /><ol> <li/> 
+<br />Psevdotasodifiy ketma-ketliklarni hosil qiluvchi generatorlarga qanday talablar qo’yiladi.
+<br /><li/> 
+<br />Psevdotasodifiy ketma-ketliklarni hosil qiluvchi kriptografik algoritmlarni keltiring.
+<br /><li/> 
+<br />Psevdotasodifiy ketma-ketikni hosil qiluvchi chiziqli kongruent generatorlarni kriptografiyada foydalanish mumkinmi.
+<br /><li/> 
+<br />Blokli shifrlash algoritmlarini psevdotasodifiy ketma-ketlikli hosil qiluvchi generator sifatida foydalanish mumkinmi.  
+<br /></ol> 
+<br />
+<br /><b>13- amaliy ish </b> 
+<br /><b>Mavzu: Ketma-ketliklarni tasodifiylikka tekshirishda NIST statistik testlar to‘plamidan foydalanish</b>
+<br /><span><span><span><span><span lang="uz-latn-uz"><b>Ishdan maqsad</b></span></span></span></span></span><span><span><span><span><span lang="uz-latn-uz">: </span></span></span></span></span>Ketma-ketliklarni tasodifiylikka tekshirishda NIST statistik testlar to‘plami haqida bilim ko‘nikmalarga ega bo‘lish
+<br /><span><span><span><span><span lang="uz-latn-uz"><b>Nazariy</b></span></span></span></span></span>
+<br /><span><span><span><span><span lang="uz-latn-uz">Mavjud blokli simmetrik shifrlash algoritmlari DES, AES, GOST 28147-89 mos ravishda 56 bit, 128 bit, yoki 256 bit, yoki 512 bit va 256 bit uzunlikdagi oldindan belgilab qo‘yilgan qoida bo‘yicha generatsiya qilingan kalitlardan foydalanadi. Biroq standart algoritmlarda belgilab qo‘yilgan qoida bo‘yicha generatsiya qilingan barcha kalitlar har doim ham shifrmatnni o’chish maqsadida ochiq aloqa tarmog‘ini nazorat qiluvchi kriptoanalitik tomonidan uyushtiriladigan turli kriptohujumlarga bardoshli bo‘lmasligi mumkin. Masalan, kalitni tashkil etuvchi bitlar ketma-ketligi faqat nollardan yoki birlardan yoki bo‘lmasa, nol va birlarning kombinatsiyam fiksirlangan davr bilan takrorlanishi yordamida tuzilgan bo‘lsa, bu toifa kalitlar bardoshsiz hisoblanadi. Chunki ushbu tur bitlar ketma-ketligida, shu ketma-ketlikni tashkil etuvchi nol va bir elementlari davriy takrorlanishining matematik qonuniyatini oldindan aytish imkoniyati mavjud. U holda bu kabi generatsiya qilingan bitlar ketma-ketligidan simmetrik shifrlash algoritmlari uchun maxfiy kalit sifatida foydalanish maqsadga muvofiq emas. Demak, yuqoridagi fikr-muloxazalardan kelib chiqib, «kriptoalgoritmlar maxfiy kalit bloklari uchun tasodifiy bitlar ketma- ketligi qanday quriladi?» degan savolning tug‘ilishi tabiiy, yani agar biror qoida bo‘yicha kalit blokining</span></span></span></span></span><i><span> k=k</i></span><i><span><sub>1</sub></i></span><i><span> k</i></span><i><span><sub>2</sub></i></span><i><span>..k</i></span><i><span><sub>m</sub></i></span><i><span> ,</i></span><span><span><span><span><span lang="uz-latn-uz"> ketma-ketligi olingan bo‘lsa, bu yerda</span></span></span></span></span><i><span> k</i></span><i><span>∊</i></span><span><span><span><span><span lang="uz-latn-uz"> {0,1}, va</span></span></span></span></span><i><span> m</i></span><span><span><span><span><span lang="uz-latn-uz"> = 56, 128, 192, 256 bo‘lishi mumkin. </span></span></span></span></span><span><span><span><span><span lang="en-us">U holda kalit blokida </span></span></span></span></span><i><span>k</i></span><i><span><sub>i</sub></i></span><i><span>.</i></span><span><span><span><span><span lang="en-us"> - bitlarning taqsimoti tasodifiy yoki tasodifiy emasligi qanday aniqlanadi? Ushbu savolga javob olish uchun kalit blokida</span></span></span></span></span><i><span> k</i></span><i><span><sub>i</sub></i></span><i><span>.</i></span><span><span><span><span><span lang="en-us"> - bitlarning taqsimotini amaliyotda keng tarqalgan va boshqa mavjud tasodifiylik testlarining asoslarini tashkil etuvchi «Xi-kvadrat» taqsimotidan foydalanib aniqlash kerak bo‘ladi.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Tasodifiylikka tekshiruvchi testlar 2 xil bo‘ladi:</span></span></span></span></span>
+<br /><span><span lang="en-us">Grafik testlar</span></span><span><span><span><span><span lang="en-us"> - grafik testlar foydalanuvchiga tekshirilayotgan ketma-ketlikning ma’lum bir grafik bog‘liqligi haqidagi ma’lumotni berib, u bo‘yicha tekshirilayotgan ketma-ketlik xossalari to’g’risida xulosa chiqarish imkoniyatini beradi.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Baholash testlari - baholash testlari tekshirilayotgan ketma- ketlik statistik xossalarini tahlil qilib, uning chin tasodifiylik darajasi haqida xulosa chiqarish imkoniyatini beradi :</span></span></span></span></span>
+<br /> 
+<br />8.1- rasm. Tasodifiylik darajasini aniqlovchi testlar
+<br /><span><span><span><span><span lang="en-us">Kalit blokini tashkil etuvchi belgilar taqsimotini tasodifiylikka tekshirishda, avvalo, bu kalit blokini biror qoida bo‘yicha hosil qilib olish zarur. Bu kabi ishlar, odatda, psevdotasodifiy ketma-ketliklar generatorlari orqali amalga oshiriladi. Psevdotasodifiy ketma-ketlik ishlab chiqaruvchi generatorlar haqida, ularning tuzilish asoslariga ko’ra turkumlari, xususiyatlari, xossalari, kriptografik masalarni yechishdagi qo’llanishlari yuqorida batafsil tahlil qilingan. Xususan:</span></span></span></span></span>
+<br /><ul> <ol start="3"> <ol> <li/> 
+<br /><span><span> </span></span><span><span><span><span>Chiziqli kongruent;</span></span></span></span>
+<br /><li/> 
+<br /><span><span> </span></span><span><span><span><span>Kvadratik kongruent;</span></span></span></span>
+<br /><li/> 
+<br /><span><span> <span><span><span lang="en-us">Bir tomonlama unikatsiyalarga, shifrlash va xeshlash algoritmlariga asoslangan;</span></span></span></span></span>
+<br /><li/> 
+<br /><span><span><span><span><span lang="en-us">Sonlar nazariyasi muammolariga asoslangan generatorlar tahlil qilingan.</span></span></span></span></span>
+<br /></ol> </ol> </ul> 
+<br /> <span><span><span><span>Taqsimotni</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tasodifiylikka</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tekshirishning</span></span></span></span><span><span><span><span> «</span></span></span></span><span><span><span><span>Xi</span></span></span></span><span><span><span><span>-</span></span></span></span><span><span><span><span>kvadrat</span></span></span></span><span><span><span><span>» </span></span></span></span><span><span><span><span>kriteriysi</span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Biror o’tkazilayotgan tajriba natijalarining barcha mumkin bo‘lgan holatlari  </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>,</i></span></span></span></span></span><span><span><span><span><span lang="en-us">  </span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"> dan iborat va ularning soni</span></span></span></span></span><span><span><span><span><span lang="en-us"><i> k</i></span></span></span></span></span><span><span><span><span><span lang="en-us"> ga teng bo‘lib, bu tajriba bir-biriga bog‘liqsiz holda n marta o’tkazilsin.. Shunda, </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>,</i></span></span></span></span></span><span><span><span><span><span lang="en-us">  </span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us">- holatlarni, ularning </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>n</i></span></span></span></span></span><span><span><span><span><span lang="en-us"> marta o’tkazilgan tajribada, bir xil sonda takrorlanishidan (tekis taqsimotdan yoki bir xil chastotaga ega bo‘lishdan) qanchalik chetlanganligini baholash masalasini yechilishini ko‘rib o’tiladi. Buning uchun quyidagicha belgilashlar kiritiladi:</span></span></span></span></span>
+<br /> <span><span> <span><span><span lang="en-us">- eksperiment natijasi</span></span></span></span></span><i><span>  </i></span><span><span><span><span><span lang="en-us">bo‘lishining Ehtimollik qiymati;</span></span></span></span></span>
+<br /> <span><span> <span><span><span lang="en-us">- eksperiment natijalarining  holatga tegishlilari (tenglari) soni.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">U holda, bu belgilashlarga nisbatan «Xi-kvadarat» deb ataluvchi taqsimot kriteriysi ushbu</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  ,</i></span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">formula orqali aniqlanadi.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Agar tajriba </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>n</i></span></span></span></span></span><span><span><span><span><span lang="en-us"> martadan bir necha marta</span></span></span></span></span><span> </span><span><span>o‘tkazilganda,</span></span><span><span><span><span><span lang="en-us"> har doim</span></span></span></span></span><i><span>  </i></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us">holatlar teng  . martadan takrorlansa (tekis taqsimlangan yoki bir xil chastotali bo‘lsa), ya’ni  </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"> bo‘lsa, u holda  </span></span></span></span></span><i><span>= </i></span><span><span><span><span><span lang="en-us"><i>= …..= =  </i></span></span></span></span></span><span><span><span><span><span lang="en-us">deb xulosa qilinadi va</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  = =0</i></span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">tenglik o‘rinli bo‘ladi. Bunday jarayonning ilmiy tadqiqot uchun qizig‘i yo‘q. Ammo, amaldagi aksariyat jarayonlarda bunday holat kuzatilmaydi, ya’ni biror tajriba bir-biriga bog‘liqsiz ravishda</span></span></span></span></span> <i>n</i> <span><span><span><span><span lang="en-us">marta o‘tkazilganda:</span></span></span></span></span><i><span>  </i></span><span><span><span><span><span lang="en-us"><i>,=  </i></span></span></span></span></span><i><span>,=…….= </i></span><span><span><span><span><span lang="en-us"> =  holat kuzatilmaydi. Shuning uchun</span></span></span></span></span><i><span>  </i></span><span><span><span><span><span lang="en-us"><i>,</i></span></span></span></span></span><span><span><span><span><span lang="en-us">  </span></span></span></span></span><i><span>,……. ,</i></span><span><span><span><span><span lang="en-us"> holatlarni ro‘y berish Ehtimolliklari bir xil  </span></span></span></span></span><i><span>= </i></span><span><span><span><span><span lang="en-us"><i>= …..= =  </i></span></span></span></span></span><span><span><span><span><span lang="en-us"><i> </i></span></span></span></span></span><span><span><span><span><span lang="en-us">bo‘lib, </span></span></span></span></span><span><span><span><span><span lang="en-us">bir-biriga bog‘liq bo’lmagan ravishda p marta o’tkazilganda, bu holatlarning ro‘y berishi soni mos ravishda </span></span></span></span></span> 
+<br /> <span><span><span><span><span lang="en-us"><i>,  </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"> bo‘lsa, u holda ushbu</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  = </i></span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">formula  </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>,=  </i></span></span></span></span></span><i><span>,=…….= </i></span><span><span><span><span><span lang="en-us"> =  </span></span></span></span></span> bo‘lgan teng taqsimotdan  <span><span><span><span><span lang="en-us"><i>,=  </i></span></span></span></span></span><i><span>,=…….= </i></span><span><span><span><span><span lang="en-us"> – teng bo’lmagan taqsimoqni o‘rtacha kvardatik chetlanishni ifodalaydi. Bu oxirgi formuladagi ( ) - ifoda biror o’zgarmas son bilan chegaralangan, ya’ni | | </span></span></span></span></span><span><span><span><span><span lang="en-us"> </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>C</i></span></span></span></span></span><span><span><span><span><span lang="en-us">= const.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  = = → 0, n </i></span></span></span></span></span><span><span><span><span><span lang="en-us">bo‘lsa.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Bu oxirgi formuladan, biror generator orqali hosil qilingan psevdotasodifiy ketma-ketlikning davri yetarli uzun bo‘lib, barcha mumkin bo‘lgan bitlar, baytlar va qism bloklarining taqsimoti deyarli tekis (teng taksimlangan) bo‘lsa, u holda «Xi-kvadarat» taqsimot kriteriysining bu ketma-ketlikka nisbatan qiymati nolga yaqin bo‘lib, uning tasodifiylik darajasi yuqori hisoblanadi.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Quyida esa standart DES, GOST 28147-89, AES-FIPS-197 va boshqa simmetrik shifrlash algoritmlari uchun maxfiy kalitni tasodifiy qilib generatsiya qilishning Xi-kvadrat taqsimoti orqali qanday amalga oshirilishini ko‘rib o’tamiz.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Berilgan kalit bloki bo‘yicha quyidagi jadvalni tuzib olamiz:</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Qiymat (s): 0 1;</span></span></span></span></span>
+<br /><span><span><span lang="en-us"><span><span>Ehtimollik </span></span></span></span></span><span><span><i><b><span lang="en-us">( ) :  </b></i></span></span></span><span><span><span><span>  </span></span></span></span><span><span><i><b><span lang="en-us"> ;</b></i></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Kuzatilayotgan son ( ):  , </span></span></span></span></span> 
+<br /><span><span><span><span><span lang="en-us">bu yerda: </span></span></span></span></span><span><i><span> </i></span></span><span><span><span><span><span lang="en-us"> va  mos ravishda kalit blokida ishtirok etuvchi nollar va birlar,</span></span></span></span></span><span><i><span>  </i></span></span><span><span><span><span><span lang="en-us">+ </span></span></span></span></span><span><i><span>,</i></span></span><span><span><span><span><span lang="en-us"> orqali kalit uzunligini belgilaydi, masalan</span></span></span></span></span><span><i><span>  </i></span></span><span><span><span><span><span lang="en-us"><i> </i></span></span></span></span></span><span><span><span><span><span lang="en-us">;</span></span></span></span></span>
+<br /><span><span><span lang="en-us"><span><span>kutilayotgan son (n</span></span></span></span></span><span><span><i><b><span lang="en-us">* ) :  </b></i></span></span></span><span><span><span><span>  </span></span></span></span><span><span><i><b><span lang="en-us"> ;</b></i></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Xi-kvadrat taqsimoti formulasi bo‘yicha [10]:</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  </i></span></span></span></span></span><span><span><span><span><span lang="en-us">hisoblanadi</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Ushbu qaralayotgan holatda:</span></span></span></span></span>
+<br /><i><span>k=</i></span><span><span><span><span><span lang="en-us">2; 5 = 0,1;  </span></span></span></span></span><i><span>  </i></span><span><span><span><span><span lang="en-us"> ;  = ;  = ;  ; u holda, quyidagicha</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">kattalikka ega bo’lamiz:</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us"><i>V =  </i></span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Bu kattalikni hisoblash uchun bizga Xi-kvadrat taqsimotining kritik nuqtalari jadvali deb ataluvchi jadval kerak bo‘ladi.</span></span></span></span></span>
+<p>8.1- jadval</p>
+
+<br />Xi –kvadrat taqsimotining kritik nuqtalari jadvali
+<br /><table width="623" cellpadding="7" cellspacing="0"> <col width="53"> <col width="69"> <col width="69"> <col width="64"> <col width="64"> <col width="64"> <col width="64"> <col width="63"> <tr valign="top"> <td width="53"> 
+<br />
+<br />
+<br /></td> <td width="69"> 
+<br /><span><span lang="en-us">p=1%</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span lang="en-us">p=5%</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span lang="en-us">p=25%</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span lang="en-us">p=50%</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span lang="en-us">p=75%</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span lang="en-us">p=95%</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span lang="en-us">p=99%</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br />N=1
+<br /></td> <td width="69"> 
+<br /><span><span>0.00016</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.00393</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>0.1015</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>0.4549</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>1.323</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>3.841</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>6.635</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N=2</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.02010</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.1026</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>0.5754</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>1.386</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>2.773</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>5.991</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>9.210</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=3
+<br /></td> <td width="69"> 
+<br /><span><span>0.1148</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.3518</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>1.213</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>2.366</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>4.108</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>7.815</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>11.34</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=4
+<br /></td> <td width="69"> 
+<br /><span><span>0.2971</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.7107</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>1.923</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>3.357</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>5.385</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>9.488</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>13.28</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span><span>=5</span>
+<br /></td> <td width="69"> 
+<br /><span><span>0.5543</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>1.1455</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>2.675</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>4.351</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>6.626</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>11.07</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>15.09</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=6
+<br /></td> <td width="69"> 
+<br /><span><span>0.8721</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>1.635</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>3.455</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>5.348</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>7.841</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>12.59</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>16.81</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span><span>=7</span>
+<br /></td> <td width="69"> 
+<br /><span><span>1.239</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>2.167</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>4.255</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>6.346</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>9.037</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>14.07</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>18.48</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=8
+<br /></td> <td width="69"> 
+<br /><span><span>1.646</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>2.733</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>5.071</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>7.344</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>10.22</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>15.21</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>20.09</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=9
+<br /></td> <td width="69"> 
+<br /><span><span>2.088</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>3.325</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>5.899</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>8.343</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>11.39</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>16.92</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>21.67</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=10
+<br /></td> <td width="69"> 
+<br /><span><span>2.558</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>3.940</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>6.737</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>9.342</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>12.55</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>18.31</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>23.21</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=11
+<br /></td> <td width="69"> 
+<br /><span><span>3.053</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>4.575</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>7.584</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>10.34</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>13.70</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>19.68</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>24.72</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=12
+<br /></td> <td width="69"> 
+<br /><span><span>3.571</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>5.226</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>8.438</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>11.34</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>14.85</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>21.03</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>26.22</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=15
+<br /></td> <td width="69"> 
+<br /><span><span>5.229</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>7.261</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>11.04</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>14.34</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>18.25</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>25.00</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>30.58</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=20
+<br /></td> <td width="69"> 
+<br /><span><span>8.260</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>10.585</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>15.45</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>19.34</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>23.83</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>31.41</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>37.57</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=30
+<br /></td> <td width="69"> 
+<br /><span><span>14.95</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>18.49</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>24.48</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>29.34</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>34.80</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>43.77</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>50.89</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>=50
+<br /></td> <td width="69"> 
+<br /><span><span>29.71</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>34.76</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>42.94</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>49.33</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>56.33</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>67.50</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>76.15</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="53"> 
+<br /><span><span lang="en-us">N </span></span>>30
+<br /></td> <td colspan="7" width="540"> 
+<br />V+  +  –o ( )
+<br /></td> </tr> <tr valign="top"> <td width="53" height="24"> 
+<br /> =8
+<br /></td> <td width="69"> 
+<br /><span><span>-2.33</span></span>
+<br /></td> <td width="69"> 
+<br /><span><span>-1.36</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>-0.674</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>0.00</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>0.674</span></span>
+<br /></td> <td width="64"> 
+<br /><span><span>1.64</span></span>
+<br /></td> <td width="63"> 
+<br /><span><span>2.33</span></span>
+<br /></td> </tr> </table> 
+<br /><span><span><span><span><span lang="en-us">«Xi-kvadrat» kriteriysi jadvali v=k:-l =2-1 = 1, satridan </span></span></span></span></span><span><span><span><span><span lang="en-us"><i>v</i></span></span></span></span></span><span><span><span><span><span lang="en-us"> </span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">qiymat joylashish Oraliqini topamiz. Agar</span></span></span></span></span><i><span> v</i></span><span><span><span><span><span lang="en-us"> qiymat jadval ustunining p = 25% dan p </span></span></span></span></span><i><span>=</i></span><span><span><span><span><span lang="en-us"> 25%, Oraliqida bo‘lsa, u holda psevdotasodifiy generator yordamida hosil qilingan kalit blok bitlari ketma- ketligi tasodifiy deb olinadi.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Garchand psevdotasodifiy generator yordamida hosil qilingan kalit blok bitlari ketma-ketligi tasodifiylikka «Xi-kvadrat» kriteriysi bo‘yicha tekshirilganda ijobiy javob olingan bo‘lsa ham, undan ko‘ra ishonchli va mukammal bo‘lgan javob olish uchun qaralayotgan bitlar ketma-ketligini boshqa mavjud tasodifiylik testlariga ham tekshirib ko’rish lozim. </span></span></span></span></span> 
+<br /><span><span><span><span><span lang="en-us">Aytaylik, psevotasodifiy generator yordamida hosil qilingan kalit bloki: k</span></span></span></span></span><span><span><span><span>= </span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i> = </i></span></span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><span><span><span><span><span lang="en-us">bu yerda  {0; 1}</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">yuqorida keltirilgan kriteriy bo‘yicha tasodifiylikka tekshirilgan va qoniqarli javob olingan. Amaliyot jarayonida shifrtizimlar bilan ishlashda aniqlangan bardoshsiz kalitlarni</span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">k</span></span></span></span></span><span><span><span><span>= </span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i> </i></span></span></span></span></span><span><span><span><span><span lang="en-us">kabi belgilaymiz.</span></span></span></span></span>
+<br /><span><span><span><span><span lang="en-us">Psevotasodifiy generator yordamida hosil qilingan kalit bloki: k</span></span></span></span></span><span><span><span><span>= </span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i> = </i></span></span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i>,</i></span></span></span></span></span><span><span><span><span><span lang="en-us"> va amaliyot jarayonida bardoshsiz deb topilgan k</span></span></span></span></span><span><span><span><span>= </span></span></span></span><span><span><span><span><span lang="en-us"><i>, </i></span></span></span></span></span><i><span>,……. </i></span><span><span><span><span><span lang="en-us"><i> , </i></span></span></span></span></span><span><span><span><span><span lang="en-us"> kalitlarning farqi ko‘rib o’tiladi:</span></span></span></span></span>
+<br /> <span><span> <span><span><span lang="en-us">=  k =  (1)  (1)…..  (1) bu farq bo‘yicha mos ravishda 0 va 1 bitlar soni  (1) </span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">;  (1);</span></span></span></span></span>
+<br /> <span><span> <span><span><span lang="en-us">=  k =  (2)  (2)…..  (2) bu farq bo‘yicha mos ravishda 0 va 1 bitlar soni  (2) </span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">;  (2);</span></span></span></span></span>
+<br /> <span><span> <span><span><span lang="en-us">=  k =  (m)  (m)…..  (m) bu farq bo‘yicha mos ravishda 0 va 1 bitlar soni  (m) </span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">;  (m); bu kattaliklardan foydalangan holda, quyidagilarni xisoblaymiz:</span></span></span></span></span>
+<br /> <span><span><span><span><span lang="en-us"><i>=  </i></span></span></span></span></span>
+<br /> <span><span><span><span><span lang="en-us"><i>=  </i></span></span></span></span></span>
+<br /> <span><span><span><span><span lang="en-us"><i>=  </i></span></span></span></span></span>
+<br />V=  
+<br /><span><span><span><span><span lang="en-us">«Xi-kvadrat» kriteriysi jadvali v=k-1=2-1 = 1, satridan V qiymat joylashish Oraliqini topamiz. Agar</span></span></span></span></span><i><span> V</i></span><span><span><span><span><span lang="en-us"> qiymat jadval ustunining</span></span></span></span></span><i><span> </i></span><span><span><span><span><span lang="en-us">p = 25% dan p</span></span></span></span></span><i><span>=</i></span><span><span><span><span><span lang="en-us"> 25%, Oraliqida bo‘lsa, u holda psevdotasodifiy generator yordamida hosil qilingan kalit blok bitlari ketma- ketligi tasodifiy deb olinadi.</span></span></span></span></span>
+<br /><b>Topshiriq</b>
+<br /><span><span><span><span>Taqsimotni</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tasodifiylikka</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tekshirishning</span></span></span></span><span><span><span><span> «</span></span></span></span><span><span><span><span>Xi</span></span></span></span><span><span><span><span>-</span></span></span></span><span><span><span><span>kvadrat</span></span></span></span><span><span><span><span>» ishlash funksiyasi</span></span></span></span> qadamma – qadam izohlansin.  
+<br /><b>Nazorat savollari</b>
+<br /><ol> <li/> 
+<br /><span><span><span><span>Taqsimotni</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tasodifiylikka</span></span></span></span><span><span><span><span> </span></span></span></span><span><span><span><span>tekshirishning</span></span></span></span><span><span><span><span> «</span></span></span></span><span><span><span><span>Xi</span></span></span></span><span><span><span><span>-</span></span></span></span><span><span><span><span>kvadrat</span></span></span></span><span><span><span><span>» </span></span></span></span><span><span><span><span>kriteriysi tasnifi</span></span></span></span>
+<br /><li/> 
+<br />Tasodifiylik darajasini aniqlovchi testlar turlari
+<br /></ol> 
+<br /><span><span><span><span><span lang="en-us">Psevdotasodifiy ketma-ketlik ishlab chiqaruvchi generatorlar tasnifi</span></span></span></span></span>
+<br />
+<br /><b>14- amaliy ish</b>
+<br /><b>Mavzu: Openssl kutubxonasidan foydalangan holda ma’lumotlarni xesh qiymatini hisoblash</b>
+<br /><b>Ishdan maqsad</b>: Xeshlash algoritmining ishlatilish sohalari va ishlash prinsiplari haqida amaliy bilim ko‘nikmalarga ega bo‘lish.  
+<br /><b>Nazariy qism</b>
+<br />Kriptografiyada, xesh funksiya deb ixtiyoriy uzunlikdagi (bitlar yoki baytlar birliklarida) ma’lumotni biror fiksirlangan (belgilangan) uzunlikdagi (bitlar yoki baytlar birliklariga) qiymatga o‘tkazib beruvchi funksiyaga aytiladi. Xesh funksiyalardan amalda statistik tajribalar o‘tkazishda, mantiqiy qurilmalarni tekshirishda, ma’lumotlar bazasida tez qidirib topish algoritmlarini yaratishda va ma’lumotlar bazasidagi ma’lumotlarning butunligini tekshirishda foydalaniladi.
+<br /> Xesh funksiya deb, ixtiyoriy uzunlikdagi M ma’lumotni fiksirlangan uzunlikdagi h(M)=H qiymatga akslantib beruvchi, oson hisoblanadigan bir tomonli funksiyaga aytiladi.
+<br />Xesh qiymat: “xesh qiymat”, “svertka”, “daydjest”, “barmoq izlari” deb ham ataladi.
+<br />Xesh funksiyaga nisbatan quyidagi talablar qo‘yiladi:
+<br />1. Ixtiyoriy uzunlikdagi matn uchun qo‘llab bo‘lishlik.
+<br />2. Chiqishda belgilangan uzunlikdagi qiymatni berishlik.
+<br />3. Ixtiyoriy berilgan x bo‘yicha h(x) oson hisoblanishlik.
+<br />4. Ixtiyoriy berilgan H bo‘yicha h (x)= N tenglikdan x ni hisoblab topib bo‘lmaslik. (Bir tomonlilik xususiyati).
+<br />5. Olingan x va y≠x matnlar uchun h(x)≠ h(y) munosabat o‘rinli bo‘lishi. (Kolliziyaga bardoshlilik xususiyati).
+<br /><b>MD 5 xesh funksiyasi. </b>MD5 algoritmda kiruvchi ma’lumot uzunligi ixtiyoriy bo‘lib, xesh qiymat uzunligi 128 bit bo‘ladi. MD 5 xesh funksiyasi algoritmida kiruvchi ma’lumot 512 bitlik bloklarga ajratilib, ular 16 ta 32 bitlik qism bloklarga ajratiladi va bular ustida amallar bajariladi.
+<br /> Faraz qilaylik, bizga uzunligi b bit bo‘lgan, bu yerda b – ixtiyoriy nomanfiy butun son, ma’lumot berilgan bo‘lsin va bu ma’lumotning bitlari <i>m0 m1 … m(b-1) </i>tartibda yozilgan bo‘lsin.
+<br />Xesh qiymatni hisoblash uchun quyidagi beshta bosqich bajariladi:
+<br />1- bosqich. To‘ldirish bitlarini qo‘shish
+<br />Berilgan ma’lumot uzunligi 512 modul bo‘yicha 448 bilan taqqoslanadigan (ma’lumot uzunligi 448 mod 512) qilib to‘ldiriladi, ya’ni, kengaytirilgan ma’lumotning uzunligi unga eng yaqin bo‘lgan 512 ga karrali bo‘lgan sondan 64 bitga kichik bo‘lishi kerak. To‘ldirish hamma vaqt, hattoki ma’lumot uzunligi 512 modul bo‘yicha 448 bilan taqqoslanadigan bo‘lsa ham bajariladi.
+<br />To‘ldirish quyidagi tartibda amalga oshiriladi: ma’lumotga 1 ga teng bo‘lgan bitta bit qo‘shiladi, qolgan bitlar esa 0 lar bilan to‘ldiriladi. Shuning uchun qo‘shilgan bitlar soni 1 dan 512 tagacha bo‘ladi.
+<br />2- bosqich. Ma’lumotning uzunligini qo‘shish
+<br />1-bosqichning natijasiga berilgan ma’lumot uzunligining 64 bitlik qiymati qo‘shiladi. Agar ma’lumotning uzunligi 2<sup>64</sup> bitdan katta bo‘lsa, bu uzunlik mod 2<sup>64</sup> bo‘yicha olinib qo‘shiladi.
+<br />Shunday qilib, birinchi ikkita bosqich bajarilgandan keyin uzunligi 512 bitga karrali bo‘lgan ma’lumot olinadi, ya’ni kengaytirilgan ma’lumot uzunligi 16 ta 32 bitlik so‘zdan iborat blok uzunligiga karrali bo‘ladi. Natijada hosil qilingan ma’lumotning so‘zlarini M[0, ..., N-1] orqali belgilaymiz, u holda N soni 16 ga karrali bo‘ladi. Shunday qilib, N=L 16 bo‘ladi.
+<br /> 
+<br /> 3- bosqich. Xesh qiymat uchun bufer initsializatsiya qilish
+<br />Xesh funksiyaning oraliq va oxirgi natijalarini saqlash uchun 128 bitlik buferdan foydalaniladi. Bu buferni to‘rtta 32 bitlik A, B, C, D registrlar ko‘rinishida tasvirlash mumkin. Bu registrlarga 16 lik sanoq sistemasida quyidagi boshlang‘ich qiymatlar beriladi:
+<br />A=0x01234567
+<br />B=0x89ABCDEF
+<br />C=0xFEDCBA98
+<br />D=0x76543210 .
+<br />4- bosqich. Ma’lumotni 512 bitlik bloklarga ajratib qayta ishlash
+<br />Argumenti va qiymati 32 bitlik so‘z bo‘ladigan to‘rtta yordamchi funksiyani aniqlaymiz:
+<br />F(X,Y,Z) = (X Y)  (  X Z)
+<br />G(X,Y,Z) = (X Z)  (Y  Z)
+<br />H(X,Y,Z) = X  Y  Z
+<br />I(X,Y,Z) = Y  (X   Z)
+<br />Bu yerda bitlar bo‘yicha mantiqiy AND, OR, NOT, XOR amallari mos ravishda  ,  ,  ,   belgilari bilan ifodalangan.
+<br />Bu bosqichda sinus funksiyasi asosida 64 ta so‘zdan qurilgan T[1,…,64] jadvaldan foydalaniladi. T[<i>i</i>]=[4294967296abs(sin(<i>i</i>))]  bo‘lib, jadvalning <i>i</i>–elementini ifodalaydi.<i> </i>Bu yerda<i> </i>[q]<i> </i>ifoda<i> </i>q<i> </i>sonning butun qismini<i> </i>bildiradi, <i>i</i> esa radianlarda ifodalangan.
+<br />Ushbu bosqichda quyidagi amallar bajariladi:
+<br />/* Har bir 16 so‘zlik blok qayta ishlanadi. */
+<br />for <i>I</i> = 0 to N/16 – 1 do
+<br />/* <i>i</i>- блок  X га ёзиб олинади. */
+<br /> For <i>j</i> = 0 to 15 do
+<br /> X[<i>j</i>] = M[<i>i</i>*16 + <i>j</i>].
+<br /> /* A ning qiymati AA ga, B ning qiymati BB ga, C ning qiymati CC ga, D ning qiymati DD ga yozib olinadi. */
+<br /><ol type="a" start="27"> <li/> 
+<br />= A
+<br /><li/> 
+<br />= B
+<br /><li/> 
+<br />= C
+<br /><li/> 
+<br />=D /* 1-qadam. */
+<br /></ol> 
+<br />/* [<i>abcd k s i</i>] ifoda quyidagi amalni bildiradi:
+<br /><i>a</i> = <i>b</i> + ((<i>a+</i> F(<i>b</i>,<i>c</i>,<i>d</i>) +X[<i>k</i>] +T[<i>i</i>]) <<< <i>s</i>). */
+<br />*/ /* Quyidagi 16 ta amal bajariladi. */
+<br /><table width="560" cellpadding="0" cellspacing="0"> <col width="100"> <col width="29"> <col width="72"> <col width="43"> <col width="32"> <col width="67"> <col width="1"> <col width="47"> <col width="1"> <col width="1"> <col width="32"> <col width="1"> <col width="1"> <col width="109"> <col width="29"> <tr valign="bottom"> <td width="100" height="24" bgcolor="#ffffff"> 
+<br />[ABCD 0 7
+<br /></td> <td width="29" bgcolor="#ffffff"> 
+<br />1]
+<br /></td> <td width="72" bgcolor="#ffffff"> 
+<br />[DABC
+<br /></td> <td width="43" bgcolor="#ffffff"> 
+<br />1 12
+<br /></td> <td width="32" bgcolor="#ffffff"> 
+<br />2]
+<br /></td> <td colspan="5" width="113" bgcolor="#ffffff"> 
+<br />[CDAB 2 17
+<br /></td> <td colspan="3" width="32" bgcolor="#ffffff"> 
+<br />3]
+<br /></td> <td width="109" bgcolor="#ffffff"> 
+<br />[BCDA 3 22
+<br /></td> <td width="29" bgcolor="#ffffff"> 
+<br />4]
+<br /></td> </tr> <tr valign="bottom"> <td width="100" height="32" bgcolor="#ffffff"> 
+<br />[ABCD 4 7
+<br /></td> <td width="29" bgcolor="#ffffff"> 
+<br />5]
+<br /></td> <td width="72" bgcolor="#ffffff"> 
+<br />[DABC
+<br /></td> <td width="43" bgcolor="#ffffff"> 
+<br />5 12
+<br /></td> <td width="32" bgcolor="#ffffff"> 
+<br />6]
+<br /></td> <td colspan="5" width="113" bgcolor="#ffffff"> 
+<br />[CDAB 6 17
+<br /></td> <td colspan="3" width="32" bgcolor="#ffffff"> 
+<br />7]
+<br /></td> <td width="109" bgcolor="#ffffff"> 
+<br />[BCDA 7 22
+<br /></td> <td width="29" bgcolor="#ffffff"> 
+<br />8]
+<br /></td> </tr> <tr valign="bottom"> <td width="100" height="32" bgcolor="#ffffff"> 
+<br />[ABCD 8 7
+<br /></td> <td width="29" bgcolor="#ffffff"> 
+<br />9]
+<br /></td> <td width="72" bgcolor="#ffffff"> 
+<br />[DABC
+<br /></td> <td colspan="2" width="75" bgcolor="#ffffff"> 
+<br />9 12 10]
+<br /></td> <td colspan="2" width="67" bgcolor="#ffffff"> 
+<br />[CDAB
+<br /></td> <td colspan="2" width="47" bgcolor="#ffffff"> 
+<br />10 17
+<br /></td> <td colspan="3" width="32" bgcolor="#ffffff"> 
+<br />11]
+<br /></td> <td colspan="3" width="139" bgcolor="#ffffff"> 
+<br />[BCDA 11 22 12]
+<br /></td> </tr> <tr valign="bottom"> <td colspan="6" width="343" height="32" bgcolor="#ffffff"> 
+<br />[ABCD 12 7 13] [DABC 13 12 14] [CDAB
+<br /></td> <td colspan="2" width="47" bgcolor="#ffffff"> 
+<br />14 17
+<br /></td> <td colspan="3" width="32" bgcolor="#ffffff"> 
+<br />15]
+<br /></td> <td colspan="4" width="139" bgcolor="#ffffff"> 
+<br />[BCDA 15 22 16]
+<br /></td> </tr> </table> 
+<br />/* 2-qadam. */
+<br />/* [<i>abcd k s i</i>] ifoda quyidagi amalni bildiradi:
+<br /><i>a</i> = <i>b</i>+ ((<i>a</i> + G(<i>b</i>,<i>c</i>,<i>d</i>) +X[<i>k</i>] +T[<i>i</i>]) <<< <i>s</i>). */
+<br />*/ /* Quyidagi 16 ta amal bajariladi.*/
+<br />[ABCD 1 5 17] [DABC 6 9 18] [CDAB 11 14 19] [BCDA 0 20 20] [ABCD 5 5 21] [DABC 10 9 22] [CDAB 15 14 23] [BCDA 4 20 24] [ABCD 9 5 25] [DABC 14 9 26] [CDAB 3 14 27] [BCDA 8 20 28] [ABCD 13 5 29] [DABC 2 9 30] [CDAB 7 14 31] [BCDA 12 20 32]
+<br />/* 3-qadam. */
+<br />/* [<i>abcd k s i</i>] ifoda quyidagi amalni bildiradi:
+<br /><i>a</i> = <i>b</i> + ((<i>a</i> + H(<i>b</i>,<i>c</i>,<i>d</i>)+ X[<i>k</i>] + T[<i>i</i>]) <<< <i>s</i>). */
+<br />*/ /* Quyidagi 16 ta amal bajariladi.*/
+<br />[ABCD 5 4 33] [DABC 8 11 34] [CDAB 11 16 35] [BCDA 14 23 36] [ABCD 1 4 37] [DABC 4 11 38] [CDAB 7 16 39] [BCDA 10 23 40] [ABCD 13 4 41] [DABC 0 11 42] [CDAB 3 16 43] [BCDA 6 23 44]
+<br /> 
+<br /> [ABCD 9 4 45] [DABC 12 11 46] [CDAB 15 16 47] [BCDA 2 23 48] /* 4-qadam. */
+<br />/* [<i>abcd k s i</i>] ifoda quyidagi amalni bildiradi:
+<br /><i>a</i> = <i>b</i> + ((<i>a</i> + I(<i>b</i>,<i>c</i>,<i>d</i>) + X[<i>k</i>] + T[<i>i</i>]) <<< <i>s</i>). */
+<br />*/ /* Quyidagi 16 ta amal bajariladi. */
+<br />[ABCD 0 6 49] [DABC 7 10 50] [CDAB 14 15 51] [BCDA 5 21 52] [ABCD 12 6 53] [DABC 3 10 54] [CDAB 10 15 55] [BCDA 1 21 56] [ABCD 8 6 57] [DABC 15 10 58] [CDAB 6 15 59] [BCDA 13 21 60] [ABCD 4 6 61] [DABC 11 10 62] [CDAB 2 15 63] [BCDA 9 21 64]
+<br />/* Quyidagi qo‘shish amali bajariladi. */ A=A+AA
+<br />B=B+BB C=C+CC D=D+DD
+<br />end /* <i>I</i> bo‘yicha sikl */
+<br /> 
+<br />9.1- rasm. MD 5 algoritmida bitta registr qiymatini hisoblash
+<br />5- bosqich. Natija
+<br /> Ma’lumotning xesh qiymati A, B, C, D registrlardagi qiymatlarni birlashtirish natijasida hosil qilinadi.
+<br /> 
+<br />9.2- rasm. MD 5 algoritmidagi asosiy sikl
+<br /><b>SHA algoritm</b>. SHA algoritmda kiruvchi ma’lumotning uzunligi 2<sup>64</sup> bitdan kichik bo‘lib, xesh qiymat uzunligi 160 bit bo‘ladi. Kiritilayotgan ma’lumot 512 bitlik bloklarga ajratilib qayta ishlanadi.
+<br />Xesh qiymatni hisoblash jarayoni quyidagi bosqichlardan iborat:
+<br /><i>1-bosqich. To‘ldirish bitlarini qo‘shish.</i>
+<br />Berilgan ma’lumot uzunligi 512 modul bo‘yicha 448 bilan taqqoslanadigan (ma’lumot uzunligi 448 mod 512) qilib to‘ldiriladi. To‘ldirish hamma vaqt, hattoki ma’lumot uzunligi 512 modul bo‘yicha 448 bilan taqqoslanadigan bo‘lsa ham bajariladi.
+<br />To‘ldirish quyidagi tartibda amalga oshiriladi: ma’lumotga 1 ga teng bo‘lgan bitta bit qo‘shiladi, qolgan bitlar esa 0 lar bilan to‘ldiriladi. Shuning uchun qo‘shilgan bitlar soni 1 dan 512 tagacha bo‘ladi.
+<br /><i>2- bosqich. Ma’lumotning uzunligini qo‘shish.</i>
+<br />1-bosqichning natijasiga berilgan ma’lumot uzunligining 64 bitlik qiymati qo‘shiladi.
+<br /><i>3- bosqich. Xesh qiymat uchun bufer initsializatsiya qilish.</i>
+<br /> Xesh funksiyaning oraliq va oxirgi natijalarini saqlash uchun 160 bitlik buferdan foydalaniladi. Bu buferni beshta 32 bitlik A, B, C, D, Ye registrlar ko‘rinishida tasvirlash mumkin. Bu registrlarga 16 lik sanoq sistemasida quyidagi boshlang‘ich qiymatlar beriladi:
+<br />A=0x67452301,
+<br />B=0xEFCDAB89,
+<br />C=0x98BADCFE,
+<br />D=0x10325476,
+<br />Ye=0xC3D2E1F0.
+<br />Keyinchalik bu o‘zgaruvchilar mos ravishda yangi <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> va <i>e</i> o‘zgaruvchilarga yozib olinadi.
+<br /><i>4- bosqich. Ma’lumotni 512 bitlik bloklarga ajratib qayta ishlash.</i>
+<br />Bu xesh funksiyaning asosiy sikli quyidagicha bo‘ladi:
+<br />for (<i>t</i> = 0; <i>t</i> < 80; <i>t</i>++){
+<br /> <i>temp</i> = (<i>a</i> <<< 5) +<i> f</i><sub><i>t</i></sub>(<i>b</i>, <i>c</i>, <i>d</i>) + <i>e</i> + W<sub><i>t</i></sub> + K<sub><i>t</i></sub><sub><i> </i></sub>;
+<br /> <i>e</i> = <i>d</i>; <i>d</i> = <i>c</i>; <i>c</i> = <i>b</i> <<< 30; <i>b</i> = <i>a</i>; <i>a</i> = <i>temp</i>; },
+<br />Bu yerda <<< - chapga siklik surish amali. K<sub><i>t</i></sub> lar 16 lik sanoq sistemasida yozilgan quyidagi sonlardan iborat:
+<br /> 
+<br />f<sub>t</sub>(x, y, z) funksiyalar esa quyidagi ifodalar bilan aniqlanadi:
+<br /> 
+<br /> <i>W</i><sub><i>t</i></sub><i> </i>lar kengaytirilgan ma’lumotning<i> </i>512<i> </i>bitlik blokining<i> </i>32<i> </i>bitlik qism<i> </i>bloklaridan quyidagi qoida bo‘yicha hosil qilinadi:
+<br /> 
+<br />Asosiy sikl tugagandan keyin <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> va <i>e</i> larning qiymatlari mos ravishda A, B, C, D va E registrlardagi qiymatlarga qo‘shiladi hamda shu registrlarga yozib qo‘yiladi va kengaytirilgan ma’lumotning keyingi 512 bitlik blokini qayta ishlashga o‘tiladi.
+<br /><i>5- bosqich. Natija.</i>
+<br />Ma’lumotning xesh qiymati A, B, C, D va Ye registrlardagi qiymatlarni birlashtirish natijasida hosil qilinadi.
+<br /><b>Amaliy qism</b>
+<br />O <br clear="left"/> </img> penssl kutubxonasidan foydalanish uchun <i>cmd </i>buyrug‘idan foydalaniladi (pusk va R teng bosiladi):
+<br />9.3- rasm. Cmd buyrug‘ini ishga tushiriladi
+<br /><h2> Cmd oynasidagi joriy papkasidan chiqish uchun <i>cd..</i> buyrug‘idan foydalaniladi:</h2> 
+<br /> 
+<br />9.4- rasm. <i>cd..</i> buyrug‘idan foydalanish
+<br />Openssl kutubxonasi uchun foydalanadigan <i>certificate </i>papkasiga quyidagi buyrug’ orqali ochiq ma’lumotni xosil qilib olamiz:
+<br /> 
+<br />9.5- rasm. Ochiq ma’lumot ko’rsatiladi
+<br /> 
+<br /> 
+<br />9.6- rasm. Ochiq ma’lumot joylashuvi
+<br />
+<br /> 
+<br />9.7- rasm. Opensslni ishga tushirish
+<br /> 
+<br />9.8- rasm. Opensslda md5  
+<br /><b>Topshiriq</b>
+<br />Asosiy matn xesh algoritmlaridan foydalangan holda matni butunligi ta’minlansin va qadamma – qadam izohlansin. Shuningdek <i>Openssl kutibxonasidan foydalangan holda</i> matni xesh qiymatini olish amalga oshirilsin.
+<br /><b>Nazorat savollari</b>
+<br /><ol> <li/> 
+<br />Xesh funksiyalar va ularning vazifasi nimadan iborat.
+<br /><li/> 
+<br />MD5 xesh funksiyasini tavfsiflang.
+<br /><li/> 
+<br />SHA1 xesh funksiyasida foydalanilgan matematik amallarni keltiring.
+<br /></ol> 
+<br />
+<br /><b>15-Amaliy ish</b>
+<br /><b>Mavzu: Xesh qiymatlarni kalitlarni to‘liq tanlash usuli bo‘yicha aniqlash</b>
+<br /><b>Ishdan maqsad</b>: Xesh qiymatlarni kalitlarni to‘liq tanlash usuli bo‘yicha bilim va ko’nikmalariga ega bo‘lish.
+<br /><b>Nazariy qism</b>
+<br />To‘liq tanlash, yaʼni kalitlarning barcha mumkin bo‘lgan variantlarini tanlash usuli, kriptotaxlilchining nosimmetrik kriptotizim algoritmini va oshkora kalitni bilgan xolda barcha mumkin bo‘lgan kalitlarni tanlash va sinab ko‘rishga asoslanadi. Simmetrik kriptotizimlarda ham shifrmatn va ochiq matn asosida tuliq tanlash usuli qo‘llaniladi. Kriptotaxlilchilar ko‘pincha kompyuter yordamida kalitlarni to‘liq tanlash usulidan foydalanib shifrlarni oshkor etadilar. Kriptotaxlil jarayonida milliard kalitlarni sekundiga minglab kalit tezlikda tanlashga to‘g‘ri keladi.
+<br />Faraz qilinsin, buzg‘inchi uchun bir yoki bir necha (x, y) juftlik maʼlum bo‘lsin. Osonlik uchun xar qanday juftlik (x, y) uchun E<sub>k</sub>(x)=y munosabatni qanoatlantiruvchi yagona k kalit mavjud bo‘lsin. Mumkin bo‘lgan kalitlar to‘plamini tartibga solinadi va K dagi kalitlarni ketma-ket ravishda E<sub>k</sub>(x) =y tenglik bajarilishiga tekshirib chiqiladi. Agar k K kalitning bir variantini tekshirish bir amal yordamida hisoblansa, unda kalitlarni to‘liq tanlash uchun |K| amal talab etiladi. Bunda |K| - to‘plamdagi elementlar soni. Shifrlash sxemasida kalit tasodifiy va teng extimollik bilan K to‘plamdan tanlangan bo‘lsin. Bunda kalit 1/|K| extimollik bilan bilan topiladi va to‘liq tanlash usulining ish xajmi 1 ga teng bo‘ladi.
+<br />Misol uchun shaxsiy kalit uzunligi 100 bit bo‘lsa, unda barcha shaxsiy kalitlar soni 2100 ga teng, yaʼni kalitlar to‘plami quvvati |K| =2100. Shaxsiy kalit uzunligi 56 bit bo‘lganda, barcha mumkin bo‘lgan shaxsiy kalitlar soni |K| =2<sup>56 </sup>0.5<em>10</em><em><sup>17</sup></em><em> ga teng. Bunda, agar hisoblash qurilmasi xar bitta maxfiy kalitga mos oshkora kalitni hisoblash va uni xech qiyinchiliksiz taqqoslash uchun 10-6 sekund vaqt sarflasa, 24 soatda barcha kalitlarni sinab chiqish uchun 5.787*</em>10<sup>5</sup> ta EXM kerak bo‘ladi.
+<br />Shuning uchun xam shaxsiy va shifrlashda foydalaniladigan kalitni topishni murakkablashtirish maqsadida shaxsiy kalitlar uzunligi 127-159 bitdan katta bo‘lgan uzunlikda generatsiyalanadi.
+<br />Kalitlarni to‘liq tanlash usulida sarflangan vaqt foydalanilgan kompyuter imkoniyati va kalit uzunligiga bog‘liq.
+<br />quyida keltirilgan jadvalda turli uzunlikdagi parollarni (ular turli 36 ta belgidan iborat bo‘lishi mumkin) sekundiga 100 000 parolni hisoblash imkoniga ega kompyuterda xosil qilish vaqtlari keltirilga
+<br />10.1-jadval
+<br />Kalitlarni to‘liq tanlash usuli
+<br /><center> <table width="478" cellpadding="1" cellspacing="0"> <col width="84"> <col width="133"> <col width="112"> <col width="139"> <tr> <td width="84" height="35" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Belgilar soni</span></span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Variantlar soni</span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Bardoshligi</span></span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Vaqti</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>1</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>36</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span><span lang="en-us">5 </span></span><span><span lang="uz-latn-uz">bit</span></span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Sekundan kam</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>2</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>1296</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span><span lang="en-us">10 </span></span><span>bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Sekundan kam</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>3</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>46 656</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>15 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span><span lang="uz-latn-uz">Sekundan kam</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>4</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>1 679 616</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>21 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>17 </span><span><span lang="uz-latn-uz">sekund</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>5</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>60 466 176</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>26 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>10 </span><span><span lang="uz-latn-uz">minut</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>6</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>2 176 782 336</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>31 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>6 </span><span><span lang="uz-latn-uz">soat</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>7</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>78 364 164 096</span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>36 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>9 </span><span><span lang="uz-latn-uz">kun</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>8</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>2,821 109 </span><span><span lang="en-us">9x10</span></span><span><sup><span lang="en-us">12</sup></span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>41 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>11 </span><span><span lang="uz-latn-uz">oy</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>9</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>1,015 599 </span><span><span lang="en-us">5x10</span></span><span><sup><span lang="en-us">14</sup></span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>46 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>32 </span><span><span lang="uz-latn-uz">yil</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>10</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>3,656 158 </span><span><span lang="en-us">4x10</span></span><span><sup><span lang="en-us">15</sup></span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>52 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>1 162 </span><span><span lang="uz-latn-uz">yil</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>11</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span>1,316 217 </span><span><span lang="en-us">0x10</span></span><span><sup><span lang="en-us">17</sup></span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>58 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>41 823 </span><span><span lang="uz-latn-uz">yil</span></span>
+<br /></td> </tr> <tr valign="top"> <td width="84" height="33" bgcolor="#ffffff"> 
+<br /><span>12</span>
+<br /></td> <td width="133" bgcolor="#ffffff"> 
+<br /><span><span lang="en-us">4,738 381 3x10</span></span><span><sup><span lang="en-us">18</sup></span></span>
+<br /></td> <td width="112" bgcolor="#ffffff"> 
+<br /><span>62 bit</span>
+<br /></td> <td width="139" bgcolor="#ffffff"> 
+<br /><span>1 505 615 </span><span><span lang="uz-latn-uz">yuz yil</span></span>
+<br /></td> </tr> </table> </center> 
+<p>Parollarni yoki kalitlarni to‘liq tanlash usuli asosida topishda turli dasturiy vositalar foydalaniladi. Quyida parollarni aniqlashda foydalaniladigan <b>Rainbowcrack </b>dasturi haqida to‘xtalib o‘tilgan.</p>
+
+<br />Ma’lumki parollar bazada saqlanishda uning o‘zi emas, balki uning xesh qiymati saqlanadi. Ushbu xesh qiymatni qaysi ma’lumotga tegishli ekanligi aniqlashda ushbu dasturiy ta’minotdan foydalaniladi. Ushbu dasturiy ta’minotdan foydalanish uchun quyidagi ketma – ketliklarni bajarish talab etiladi.
+<br /><ol> <ol> <li/> 
+<br />Rainbowcrack dasturiy vositasini ko’chirib olinadi. Uning hozirgi kundagi oxirgi versiyasi <i>rainbowcrack-1.6.1.</i>
+<br /><li/> 
+<br />Ushbu dasturiy vositadan foydalanishda jadvallar (ko‘p xesh qiymatlardan iborat bo‘lgan) zarur bo‘ladi. Ushbu jadvallar turli alifbolar uchun mavjud (alifbodagi belgilarning soniga va tarkibiga ko‘ra jadvallar ko‘p bo‘lishi mumkin). Bu alifbolarni dasturiy vositaning veb sahifasi orqali ko’chirib olish mumkin yoki foydalanuvchini o’zi hosil qilish mumkin. Alifbolarga misol qilib quyidagilarni keltirish mumkin:
+<br /></ol> </ol> 
+<br />numeric = [0123456789]
+<br />alpha = [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
+<br />alpha-numeric = [ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]
+<br />loweralpha = [abcdefghijklmnopqrstuvwxyz]
+<br />loweralpha-numeric = [abcdefghijklmnopqrstuvwxyz0123456789]
+<br />mixalpha = [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ] mixalpha-numeric =
+<br />[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]
+<br />ascii-32-95=[!"#$%&'()*+,-
+<br />./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~]
+<br />ascii-32-65-123-4=[!"#$%&'()*+, ./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`{|}~]
+<br />alpha-numeric-symbol32-space=
+<br />[ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-_+=~`[]{}|\:;"'<>,.?/ ]
+<br /><ol> <ol start="3"> <li/> 
+<br />Ushbu labaratoriya ishida ikkinchi usulda foydalanilgan holda jadvallarni hosil qilish ko‘rib chiqiladi. Buning uchun kiritilgan parolning uzunligi (minmal va maksimal, oraliqda) va qaysi alifbodan foydalanganligi qanchalik ma’lum bo‘lsa, ushbu dasturdan natija olish shuncha aniq bo‘ladi. Ushbu labaratoriya ishida alifbo sifatida “abcdef” ni va parol uzunligini 4 ga teng deb olingan hol uchun qaraladi. Alifbo va parolning uzunligini ortishi hisoblash vaqtini ko‘p talab qiladi. Bundan tashqari parollarni xesh qiymatlarini hisoblashda foydalanilgan xesh funksiyasini bilish talab etiladi.
+<br /><li/> 
+<br />Dasturiy vosita ichidagi “charset.txt” deb nomlangan faylga yangi kiritilgan alifba “custom = [abcdef]” tarzida yoziladi va <i>rcrack.exe </i>dasturi ishga tushiriladi. Ushbu dastur buyruqlar oynasida ishlagani bois, undagi buyruqlar quyidagilardan iborat.
+<br /></ol> </ol> 
+<br />- rtgen hash_algorithm charset plaintext_len_min plaintext_len_max table_index chain_len chain_num part_index
+<br />10.2- jadval
+<br />Har bir buyruqning manosi
+<br /><table width="623" cellpadding="7" cellspacing="0"> <col width="138"> <col width="455"> <tr> <td width="138" height="17"> 
+<br />hash_algorithm
+<br /></td> <td width="455"> 
+<br />Xesh algoritmining nomi
+<br /></td> </tr> <tr> <td width="138" height="18"> 
+<br />charset
+<br /></td> <td width="455"> 
+<br />Alifboning nomi
+<br /></td> </tr> <tr> <td width="138" height="51"> 
+<br />plaintext_len_min
+<br />plaintext_len_max
+<br /></td> <td width="455"> 
+<br />Parollarning minimal va maksimal uzunliklari
+<br /></td> </tr> <tr> <td width="138" height="50"> 
+<br />table_index
+<br /></td> <td width="455"> 
+<br />Bu parametr kamaytirish funksiyasini tanlash uchun
+<br />foydalaniladi.
+<br /></td> </tr> <tr> <td width="138" height="50"> 
+<br />chain_len
+<br /></td> <td width="455"> 
+<br />Kattaliklarni saqlash uchun xotira yacheykasi o‘lchami.
+<br />Katta o‘lchamli xotira ko‘p uzunlikdagi parollar uchun.
+<br /></td> </tr> <tr> <td width="138" height="18"> 
+<br />chain_num
+<br /></td> <td width="455"> 
+<br />Yacheykalar soni.
+<br /></td> </tr> <tr> <td width="138" height="82"> 
+</td></tr></table><table><tr><td><br />part_index
+<br /> </td></tr><tr><td width="455"> 
+<br />Katta jadvalni saqlashda kichik fayllarda saqlashda
+<br />ular bo’linadi. Bu parmetr ularni tanish uchun ishlatiladi.
+<br /></td>  </table> <ol> <ol start="5"> <li/> 
+<br />Yuqoridagi buyruqlar oynasidan foydalanilgan holda, aytilgan hol uchun : <i>rtgen</i><i> </i><i>md5</i><i> </i><i>custom</i><i> </i><i>1</i><i> </i><i>4</i><i> </i><i>2400</i><i> </i><i>100000</i><i> </i><i>all</i><i> </i>buyruq hosil qilindi.
+<br /><li/> 
+<br />Yuqoridagi buyruq amalga oshirilgandan so‘ng, joriy katalogda “md5_custom#1-4_0_2400x100000_0.rt” nomli jadval hosil bo‘ladi.
+<br /><li/> 
+<br />Ushbu jadvaldan foydalanish uchun “rcrack_gui.exe” qism dastur ishga tushiriladi. Uning ko‘rinishi quyidagicha:
+<br /></ol> </ol> 
+<br /> 
+<br />10.1– rasm. Dasturning umumiy ko‘rinishi
+<br /><ol> <ol start="8"> <li/> 
+<br />Ushbu dasturdan foydalanish uchun, dastlab paroli aniqlanadigan xesh qiymatlar olinadi va dasturning “<i>Files/Add Hashes…</i>” bandiga kiritiladi. Masalan, quyidagi xesh qiymatlar kiritilsin:
+<br /></ol> </ol> 
+<br /> 
+<br />10.2– rasm. Xesh qiymatlarni hisoblash
+<br /><ol> <ol start="9"> <li/> 
+<br />Xesh qiymatlarga mos parolni aniqlash uchun hosil qilingan jadvalni “<i>Rainbow Table/Search Rainbow Tables…</i>” bandi orqali kiritiladi. Shundan so‘ng dastur tomonidan xesh qiymatlarga mos bo‘lgan parol dastur tomonidan aniqlanadi. Agar parol aniqlansa, “Plaintext” ustinida yoziladi. Aks holda “???” belgisi hosil bo‘ladi. Yuqoridagi hol uchun olingan natijalar quyidagicha:
+<br /></ol> </ol> 
+<br /> 
+<br />10.3– rasm. Xesh qiymatlarni aniqlash
+<br /><ol> <ol start="10"> <li/> 
+<br />Odatda tezroq qidirish maqsadida hosil bo‘lgan tartiblash amalga oshiriladi. Ushbu vazifa “<i>rtsort</i>” dastur orqali amalga oshiriladi. Masalan, quyidagi buyruqni kiritish orqali mavjud katalogdagi barcha jadvallarni tartiblash mumkin: “rtsort *.rt”.
+<br /></ol> </ol> 
+<br /><b>Topshiriq</b>
+<br />Har bir talaba o’ziga biriktirilgan xesh qiymatlarga mos ochiq matnni yoki parolni aniqlasin. <i>Izoh: </i>bu yerda MD5 xesh funksiyasi va “<i>loweralpha = [abcdefghijklmnopqrstuvwxyz]</i>” alifbodan foydalanilgan. Ochiq matnlar yoki parollarning maksimal uzunligi 6 ga teng.
+<br /><table width="623" cellpadding="7" cellspacing="0"> <col width="80"> <col width="293"> <col width="206"> <tr valign="top"> <td width="80" height="16"> 
+<br />№
+<br /></td> <td width="293"> 
+<br /></tr></td></table><table><tr><td><b>Xesh qiymat</b>
+<br /> </td></tr><tr><td width="206"> 
+<br /><b>Javob</b>
+<br /></td>  <tr valign="top"> <td width="80" height="18"> 
+<br />1.
+<br /></td> <td width="293"> 
+<br />f97c5d29941bfb1b2fdab0874906ab82
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />2.
+<br /></td> <td width="293"> 
+<br />c4988dbf8716d62d17180dd114f15c71
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />3.
+<br /></td> <td width="293"> 
+<br />66058ec26cd62e957604145e726b0f0b
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />4.
+<br /></td> <td width="293"> 
+<br />b8a9f715dbb64fd5c56e7783c6820a61
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />5.
+<br /></td> <td width="293"> 
+<br />35d6d33467aae9a2e3dccb4b6b027878
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />6.
+<br /></td> <td width="293"> 
+<br />7f46165474d11ee5836777d85df2cdab
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />7.
+<br /></td> <td width="293"> 
+<br />0800fc577294c34e0b28ad2839435945
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />8.
+<br /></td> <td width="293"> 
+<br />7f5f2244206f1ebac53dc0a333176b68
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />9.
+<br /></td> <td width="293"> 
+<br />aa2d6e4f578eb0cfaba23beef76c2194
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />10.
+<br /></td> <td width="293"> 
+<br />755f85c2723bb39381c7379a604160d8
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />11.
+<br /></td> <td width="293"> 
+<br />bae60998ffe4923b131e3d6e4c19993e
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />12.
+<br /></td> <td width="293"> 
+<br />7eeeb0fbb2f55bd9a94681488f0c75de
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />13.
+<br /></td> <td width="293"> 
+<br />4af3318a57ca352daaac11aa778ff083
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />14.
+<br /></td> <td width="293"> 
+<br />341be97d9aff90c9978347f66f945b77
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />15.
+<br /></td> <td width="293"> 
+<br />639bae9ac6b3e1a84cebb7b403297b79
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />16.
+<br /></td> <td width="293"> 
+<br />ab86a1e1ef70dff97959067b723c5c24
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />17.
+<br /></td> <td width="293"> 
+<br />0d149b90e7394297301c90191ae775f0
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />18.
+<br /></td> <td width="293"> 
+<br />d850f04cdb48312a9be171e214c0b4ee
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />19.
+<br /></td> <td width="293"> 
+<br />6057f13c496ecf7fd777ceb9e79ae285
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />20.
+<br /></td> <td width="293"> 
+<br />444bcb3a3fcf8389296c49467f27e1d6
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />21.
+<br /></td> <td width="293"> 
+<br />1a1dc91c907325c69271ddf0c944bc72
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />22.
+<br /></td> <td width="293"> 
+<br />c47d187067c6cf953245f128b5fde62a
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="18"> 
+<br />23.
+<br /></td> <td width="293"> 
+<br />63a9f0ea7bb98050796b649e85481845
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> <tr valign="top"> <td width="80" height="17"> 
+<br />24.
+<br /></td> <td width="293"> 
+<br />98bd1c45684cf587ac2347a92dd7bb51
+<br /></td> <td width="206"> 
+<br />
+<br />
+<br /></td> </tr> </table> 
+<br />
+<br /><h2> Nazorat savollari</h2> <ol> <li/> 
+<br />Kalitlarni to‘liq tanlash usulining afzalliklari va kamchiliklarini keltiring.
+<br /><li/> 
+<br />Ushbu tahdiddan himoyalanish uchun qanday amallarni bajarish kerak.
+<br /></ol> <br />http://fayllar.org</html>
